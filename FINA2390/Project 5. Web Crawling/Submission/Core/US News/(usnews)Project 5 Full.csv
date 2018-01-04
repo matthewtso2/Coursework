@@ -1,0 +1,2301 @@
+﻿Ranking,University Name,Country,Address,Website,No. of Students,Source
+#1,Harvard University,United States,"Cambridge, Massachusetts 02138",www.harvard.edu,"20,326",usnews
+#2,Massachusetts Institute of Technology,United States,77 Massachusetts Avenue,web.mit.edu,"11,177",usnews
+#3,Stanford University,United States,"Stanford, California 94305",www.stanford.edu,"15,845",usnews
+#4,University of California--Berkeley,United States,110 Sproul Hall,berkeley.edu,"38,204",usnews
+#5,University of Oxford,United Kingdom,,,"20,256",usnews
+#6,California Institute of Technology,United States,1200 E. California Boulevard,www.caltech.edu,"2,209",usnews
+#7,University of Cambridge,United Kingdom,,,"18,875",usnews
+#8,Columbia University,United States,2960 Broadway,www.columbia.edu,"26,587",usnews
+#9,Princeton University,United States,"Princeton, New Jersey 08544",www.princeton.edu,"7,955",usnews
+"#10
+Tie",Johns Hopkins University,United States,3400 N. Charles Street,www.jhu.edu,"15,498",usnews
+"#10
+Tie",University of Washington,United States,"Seattle, Washington 98195",www.washington.edu,"44,945",usnews
+"#10
+Tie",Yale University,United States,"New Haven, Connecticut 06520",www.yale.edu,"12,242",usnews
+#13,University of California--Los Angeles,United States,405 Hilgard Avenue,www.ucla.edu,"39,279",usnews
+#14,University of Chicago,United States,5801 S. Ellis Avenue,www.uchicago.edu,"13,525",usnews
+#15,University of California--San Francisco,United States,500 Parnassus Ave,www.ucsf.edu,,usnews
+#16,University of California--San Diego,United States,9500 Gilman Drive,www.ucsd.edu,"29,633",usnews
+"#17
+Tie",Imperial College London,United Kingdom,,,"15,532",usnews
+"#17
+Tie",University of Michigan--Ann Arbor,United States,500 S. State St.,www.umich.edu,"41,818",usnews
+#19,University of Pennsylvania,United States,"Philadelphia, Pennsylvania 19104",www.upenn.edu,"20,361",usnews
+#20,University of Toronto,Canada,315 Bloor Street W,www.utoronto.ca,"69,427",usnews
+#21,Duke University,United States,"Durham, North Carolina 27708",www.duke.edu,,usnews
+#22,University College London,United Kingdom,,,"30,395",usnews
+#23,Cornell University,United States,"Ithaca, New York 14853",www.cornell.edu,"21,850",usnews
+#24,Northwestern University,United States,633 Clark Street,www.northwestern.edu,"17,466",usnews
+#25,Swiss Federal Institute of Technology Zurich,Switzerland,,,"19,233",usnews
+#26,University of Melbourne,Australia,,,"42,116",usnews
+#27,University of British Columbia,Canada,1200-1874 E. Mall,you.ubc.ca,"51,889",usnews
+"#28
+Tie",New York University,United States,70 Washington Square S,www.nyu.edu,"43,860",usnews
+"#28
+Tie",University of California--Santa Barbara,United States,"Santa Barbara, California 93106",www.ucsb.edu,"23,054",usnews
+#30,University of Edinburgh,United Kingdom,,,"26,698",usnews
+#31,University of Wisconsin--Madison,United States,500 Lincoln Drive,www.wisc.edu,"38,960",usnews
+"#32
+Tie",University of Texas--Austin,United States,"Austin, Texas 78712-1111",www.utexas.edu,"48,561",usnews
+"#32
+Tie",Washington University in St. Louis,United States,1 Brookings Drive,www.wustl.edu,"13,093",usnews
+"#34
+Tie",University of North Carolina--Chapel Hill,United States,"Chapel Hill, North Carolina 27599",www.unc.edu,"34,719",usnews
+"#34
+Tie",University of Sydney,Australia,,,"44,553",usnews
+#36,?cole Polytechnique Federale of Lausanne,Switzerland,,,"9,928",usnews
+#37,University of Copenhagen,Denmark,,,,usnews
+#38,Pierre and Marie Curie University,France,,,"24,605",usnews
+#39,Boston University,United States,1 Silber Way,www.bu.edu,"24,833",usnews
+#40,University of Munich,Germany,,,"36,088",usnews
+#41,King's College London,United Kingdom,,,"22,809",usnews
+#42,University of Minnesota--Twin Cities,United States,100 Church Street SE,www.umn.edu,"44,542",usnews
+#43,National University of Singapore,Singapore,,,"30,602",usnews
+#44,University of Colorado--Boulder,United States,"Boulder, Colorado 80309",www.colorado.edu,"30,789",usnews
+#45,University of Queensland Australia,Australia,,,"38,640",usnews
+#46,Ohio State University--Columbus,United States,154 W. 12th Avenue,www.osu.edu,"53,190",usnews
+#47,University of California--Santa Cruz,United States,1156 High Street,www.ucsc.edu,"17,866",usnews
+#48,University of Pittsburgh,United States,4200 Fifth Avenue,www.pitt.edu,"26,367",usnews
+#49,McGill University,Canada,845 Sherbrooke Street W,www.mcgill.ca,"30,940",usnews
+#50,University of Maryland--College Park,United States,"College Park, Maryland 20742-5025",www.maryland.edu,"31,820",usnews
+#51,University of Illinois--Urbana-Champaign,United States,601 E. John Street,www.illinois.edu,,usnews
+"#52
+Tie",Karolinska Institute,Sweden,,,"7,786",usnews
+"#52
+Tie",Rockefeller University,United States,1230 York Ave,www.rockefeller.edu,209,usnews
+"#52
+Tie",University of California--Davis,United States,1 Shields Avenue,www.ucdavis.edu,"37,365",usnews
+"#55
+Tie",Nanyang Technological University,Singapore,,,"25,499",usnews
+"#55
+Tie",University of Amsterdam,Netherlands,,,,usnews
+"#57
+Tie",University of Tokyo,Japan,,,"26,000",usnews
+"#57
+Tie",Utrecht University,Netherlands,,,"31,522",usnews
+"#59
+Tie",Heidelberg University,Germany,,,"28,876",usnews
+"#59
+Tie",University of Manchester,United Kingdom,,,,usnews
+"#59
+Tie",University of Zurich,Switzerland,,,"26,363",usnews
+#62,University of Southern California,United States,University Park,www.usc.edu,"38,076",usnews
+#63,Catholic University of Leuven,Belgium,,,"44,412",usnews
+#64,Tsinghua University,China,,,"42,089",usnews
+#65,Peking University,China,,,"42,136",usnews
+#66,Pennsylvania State University--University Park,United States,201 Old Main,www.psu.edu,"45,411",usnews
+#67,Vanderbilt University,United States,"Nashville, Tennessee 37240",www.vanderbilt.edu,"12,011",usnews
+#68,Monash University,Australia,,,"46,846",usnews
+"#69
+Tie",Australian National University,Australia,,,"15,986",usnews
+"#69
+Tie",University of New South Wales,Australia,,,"40,133",usnews
+"#71
+Tie",Emory University,United States,201 Dowman Drive,www.emory.edu,"12,649",usnews
+"#71
+Tie",Georgia Institute of Technology,United States,225 North Avenue NW,www.gatech.edu,"20,773",usnews
+"#73
+Tie",Erasmus University Rotterdam,Netherlands,,,"22,047",usnews
+"#73
+Tie",University of Bristol,United Kingdom,,,,usnews
+"#75
+Tie",London School of Hygiene & Tropical Medicine,United Kingdom,,,,usnews
+"#75
+Tie",University of California--Irvine,United States,"Irvine, California 92697",www.uci.edu,"30,419",usnews
+"#77
+Tie",Carnegie Mellon University,United States,5000 Forbes Avenue,www.cmu.edu,"12,676",usnews
+"#77
+Tie",University of Arizona,United States,"Tucson, Arizona 85721",www.arizona.edu,"39,264",usnews
+#79,Leiden University,Netherlands,,,,usnews
+#80,Technical University of Munich,Germany,,,"38,689",usnews
+"#81
+Tie",Michigan State University,United States,"East Lansing, Michigan 48824",www.msu.edu,"44,556",usnews
+"#81
+Tie",Rice University,United States,6100 Main St,www.rice.edu,"6,441",usnews
+"#81
+Tie",University of Barcelona,Spain,,,"47,458",usnews
+"#81
+Tie",University of Helsinki,Finland,,,"22,532",usnews
+"#85
+Tie",Lund University,Sweden,,,"28,663",usnews
+"#85
+Tie",VU University Amsterdam,Netherlands,,,,usnews
+#87,Humboldt-Universität zu Berlin,Germany,,,"32,172",usnews
+"#88
+Tie",Ghent University,Belgium,,,"35,909",usnews
+"#88
+Tie",University of Geneva,Switzerland,,,"16,085",usnews
+"#88
+Tie",University of Western Australia,Australia,,,"18,787",usnews
+"#88
+Tie",Wageningen University and Research Center,Netherlands,,,"12,326",usnews
+#92,Brown University,United States,"Providence, Rhode Island 02912",www.brown.edu,"8,898",usnews
+#93,Université Paris-Sud,France,,,,usnews
+#94,University of Groningen,Netherlands,,,"26,106",usnews
+"#95
+Tie",Aarhus University,Denmark,,,"25,167",usnews
+"#95
+Tie",University of Florida,United States,201 Criser Hall,www.ufl.edu,"46,346",usnews
+"#97
+Tie","Rutgers, The State University of New Jersey--New Brunswick",United States,96 Davidson Rd,www.rutgers.edu,"43,439",usnews
+"#97
+Tie",University of Southampton,United Kingdom,,,"21,740",usnews
+#99,Uppsala University,Sweden,,,,usnews
+#100,University Paris Diderot - Paris 7,France,,,,usnews
+#101,Radboud University Nijmegen,Netherlands,,,"19,358",usnews
+#102,University of Glasgow,United Kingdom,,,"23,083",usnews
+#103,Purdue University--West Lafayette,United States,"Schleman Hall, 475 Stadium Mall Drive",www.purdue.edu,"38,770",usnews
+"#104
+Tie",University of Bonn,Germany,,,,usnews
+"#104
+Tie",University of Oslo,Norway,,,,usnews
+"#104
+Tie",Weizmann Institute of Science,Israel,,,"1,059",usnews
+"#107
+Tie",University of Birmingham,United Kingdom,,,"27,490",usnews
+"#107
+Tie",University of Virginia,United States,"Charlottesville, Virginia 22904",www.virginia.edu,,usnews
+#109,University of Hong Kong,Hong Kong,,,,usnews
+#110,King Abdulaziz University,Saudi Arabia,Abdullah Sulayman,www.kau.edu.sa,,usnews
+#111,University of Rochester,United States,Wilson Boulevard,www.rochester.edu,"9,636",usnews
+#112,Freie Universität Berlin,Germany,,,"34,114",usnews
+#113,University of Cape Town,South Africa,,,,usnews
+#114,Kyoto University,Japan,,,"22,481",usnews
+#115,Mount Sinai School of Medicine,United States,1428 Madison Ave,www.icahn.mssm.edu,,usnews
+"#116
+Tie","Queen Mary, University of London",United Kingdom,,,"15,066",usnews
+"#116
+Tie",University of Bern,Switzerland,,,"10,450",usnews
+#118,Texas A&M University--College Station,United States,"College Station, Texas 77843",www.tamu.edu,"56,245",usnews
+#119,Technical University of Denmark,Denmark,,,"8,548",usnews
+#120,University of Basel,Switzerland,,,,usnews
+#121,University of Texas Southwestern Medical Center--Dallas,United States,5323 Harry Hines Boulevard,www.utsouthwestern.edu,,usnews
+#122,University of Adelaide,Australia,,,"21,241",usnews
+#123,Seoul National University,South Korea,,,"26,470",usnews
+"#124
+Tie",Sapienza University of Rome,Italy,,,"111,453",usnews
+"#124
+Tie",University Catholique of Louvain,Belgium,,,,usnews
+"#126
+Tie",Baylor College of Medicine,United States,1 Baylor Plaza,www.bcm.edu,,usnews
+"#126
+Tie",University of Massachusetts--Amherst,United States,"Amherst, Massachusetts 01003",www.umass.edu,,usnews
+#128,McMaster University,Canada,,,"23,693",usnews
+"#129
+Tie",Indiana University--Bloomington,United States,107 S. Indiana Avenue,www.iub.edu,,usnews
+"#129
+Tie",Stockholm University,Sweden,,,,usnews
+"#129
+Tie",University of Liverpool,United Kingdom,,,"20,558",usnews
+"#129
+Tie",University of Montreal,Canada,,,"41,017",usnews
+"#129
+Tie",University of Utah,United States,201 S. Presidents Circle,www.utah.edu,"30,040",usnews
+"#134
+Tie",Arizona State University--Tempe,United States,"Tempe, Arizona 85287",www.asu.edu,"44,473",usnews
+"#134
+Tie",University of Alberta,Canada,"114 Street, 89 Avenue",www.ualberta.ca,,usnews
+"#134
+Tie",University of Hamburg,Germany,,,"38,183",usnews
+"#134
+Tie",University of Leeds,United Kingdom,,,"28,610",usnews
+"#138
+Tie",University of Auckland,New Zealand,,,"30,348",usnews
+"#138
+Tie",University of Bologna,Italy,,,,usnews
+#140,University of Padua,Italy,,,"62,218",usnews
+#141,University of California--Riverside,United States,900 University Avenue,www.ucr.edu,,usnews
+#142,University of Göttingen,Germany,,,"28,554",usnews
+"#143
+Tie",University of Nottingham,United Kingdom,,,"29,155",usnews
+"#143
+Tie",University of Sheffield,United Kingdom,,,"24,845",usnews
+#145,University of Science and Technology of China,China,,,"16,032",usnews
+"#146
+Tie",Case Western Reserve University,United States,10900 Euclid Avenue,www.case.edu,"10,130",usnews
+"#146
+Tie",Universite Grenoble Alpes (UGA),France,,,"39,298",usnews
+"#148
+Tie",Chinese University Hong Kong,Hong Kong,,,"18,072",usnews
+"#148
+Tie",Fudan University,China,,,"32,859",usnews
+"#148
+Tie",University of Freiburg,Germany,,,,usnews
+"#148
+Tie",University of Warwick,United Kingdom,,,"18,760",usnews
+#152,Hong Kong University of Science and Technology,Hong Kong,,,"10,214",usnews
+"#153
+Tie",Universidade de São Paulo,Brazil,,,"82,258",usnews
+"#153
+Tie",University of Iowa,United States,107 Calvin Hall,www.uiowa.edu,"27,310",usnews
+#155,"Eberhard Karls University, Tübingen",Germany,,,,usnews
+"#156
+Tie",Shanghai Jiao Tong University,China,,,"37,288",usnews
+"#156
+Tie",Stony Brook University--SUNY,United States,Administration Building,www.stonybrook.edu,"23,117",usnews
+#158,University of Milan,Italy,,,"56,805",usnews
+"#159
+Tie",Cardiff University,United Kingdom,,,"24,590",usnews
+"#159
+Tie",University of Aix-Marseille,France,,,"66,630",usnews
+"#159
+Tie",Zhejiang University,China,,,"50,051",usnews
+#162,University of Alabama--Birmingham,United States,1720 2nd Ave S.,www.uab.edu,"15,703",usnews
+#163,University of Exeter,United Kingdom,,,"19,420",usnews
+"#164
+Tie",Autonomous University of Barcelona,Spain,,,"31,227",usnews
+"#164
+Tie",Delft University of Technology,Netherlands,,,,usnews
+#166,National Taiwan University,Taiwan,,,"31,758",usnews
+"#167
+Tie",Charite - Medical University of Berlin,Germany,,,,usnews
+"#167
+Tie",Karlsruhe Institute of Technology,Germany,,,"26,338",usnews
+"#167
+Tie",Maastricht University,Netherlands,,,,usnews
+"#167
+Tie",RWTH Aachen University,Germany,,,"43,721",usnews
+"#171
+Tie",Oregon Health & Science University,United States,3181 S.W. Sam Jackson Park Road,www.ohsu.edu,,usnews
+"#171
+Tie",University of Miami,United States,"Coral Gables, Florida 33124",www.miami.edu,"15,860",usnews
+"#173
+Tie",Durham University,United Kingdom,,,"16,445",usnews
+"#173
+Tie",Tel Aviv University,Israel,,,"22,973",usnews
+"#173
+Tie",Tufts University,United States,"Medford, Massachusetts 02155",www.tufts.edu,"10,463",usnews
+"#176
+Tie",Johann Wolfgang Goethe University Frankfurt am Main,Germany,,,"45,387",usnews
+"#176
+Tie",Pompeu Fabra University,Spain,,,"11,172",usnews
+"#176
+Tie",University of Gothenburg,Sweden,,,"18,378",usnews
+#179,University of Lausanne,Switzerland,,,"13,065",usnews
+#180,University of Bergen,Norway,,,"12,554",usnews
+"#181
+Tie",Hebrew University of Jerusalem,Israel,,,"17,454",usnews
+"#181
+Tie",University of Notre Dame,United States,"Notre Dame, Indiana 46556",www.nd.edu,"11,912",usnews
+"#183
+Tie",King Abdullah University of Science & Technology,Saudi Arabia,4700 King Abdullah University of Science & Technology,www.kaust.edu.sa,,usnews
+"#183
+Tie",Technical University of Dresden,Germany,,,"34,514",usnews
+"#183
+Tie",University of Calgary,Canada,2500 University Drive NW,www.ucalgary.ca,"27,084",usnews
+#186,City University Hong Kong,Hong Kong,,,"9,240",usnews
+"#187
+Tie",Newcastle University,United Kingdom,,,"21,831",usnews
+"#187
+Tie",University of Strasbourg,France,,,,usnews
+"#187
+Tie",University of Vienna,Austria,,,,usnews
+"#190
+Tie",Bo?aziçi University,Turkey,,,"11,967",usnews
+"#190
+Tie",Florida State University,United States,"Tallahassee, Florida 32306",www.fsu.edu,,usnews
+"#190
+Tie",Nanjing University,China,,,"33,456",usnews
+"#190
+Tie",Université Libre de Bruxelles,Belgium,,,"25,221",usnews
+"#194
+Tie",Osaka University,Japan,,,"23,256",usnews
+"#194
+Tie",Paris Descartes University-Paris V,France,,,,usnews
+"#196
+Tie",Charles University in Prague,Czech Republic,,,"50,495",usnews
+"#196
+Tie",University of Münster,Germany,,,"42,287",usnews
+"#198
+Tie",Korea Advanced Institute of Science and Technology,South Korea,,,"9,464",usnews
+"#198
+Tie",University of Illinois--Chicago,United States,601 S. Morgan M/C 102,www.uic.edu,"25,450",usnews
+"#200
+Tie",Sungkyunkwan University,South Korea,,,"24,055",usnews
+"#200
+Tie",University of Cincinnati,United States,2600 Clifton Ave.,www.uc.edu,,usnews
+"#200
+Tie",University of Tennessee,United States,527 Andy Holt Tower,www.utk.edu,"25,264",usnews
+#203,University of Maryland--Baltimore,United States,621 W. Lombard Street,www.umaryland.edu,,usnews
+"#204
+Tie",Iowa State University,United States,"Ames, Iowa 50011",www.iastate.edu,,usnews
+"#204
+Tie",Johannes Gutenberg University of Mainz,Germany,,,,usnews
+"#204
+Tie",Royal Institute of Technology,Sweden,,,"12,951",usnews
+"#204
+Tie",Tohoku University,Japan,,,"17,349",usnews
+"#208
+Tie",Medical University of Vienna,Austria,,,"7,126",usnews
+"#208
+Tie",University of Ottawa,Canada,550 Cumberland Street,www.uottawa.ca,"35,177",usnews
+"#210
+Tie",?cole Polytechnique,France,,,,usnews
+"#210
+Tie",University of Montpellier,France,,,"39,725",usnews
+"#210
+Tie",University of Sussex,United Kingdom,,,,usnews
+"#213
+Tie",Autonomous University of Madrid,Spain,,,"29,305",usnews
+"#213
+Tie",University of Würzburg,Germany,,,"22,537",usnews
+#215,University of Antwerp,Belgium,,,"15,841",usnews
+#216,University of Witwatersrand,South Africa,,,"28,342",usnews
+"#217
+Tie",University of Erlangen Nuremberg,Germany,,,"38,730",usnews
+"#217
+Tie",University of Florence,Italy,,,"53,112",usnews
+"#217
+Tie",University of Lisbon,Portugal,,,"49,682",usnews
+"#217
+Tie",University of Otago,New Zealand,,,"18,157",usnews
+"#217
+Tie",University of York,United Kingdom,,,,usnews
+"#222
+Tie",North Carolina State University--Raleigh,United States,"Raleigh, North Carolina 27695",www.ncsu.edu,"30,254",usnews
+"#222
+Tie",University of Trieste,Italy,,,"17,054",usnews
+"#224
+Tie",Dartmouth College,United States,6016 McNutt Hall,www.dartmouth.edu,"6,100",usnews
+"#224
+Tie",University of Turin,Italy,,,"60,586",usnews
+#226,Scuola Normale Superiore di Pisa,Italy,,,515,usnews
+#227,Trinity College Dublin,Ireland,,,"16,157",usnews
+"#228
+Tie",Northeastern University,United States,360 Huntington Avenue,www.northeastern.edu,"18,780",usnews
+"#228
+Tie",University of Pisa,Italy,,,"50,810",usnews
+#230,University of Waterloo,Canada,University Avenue W,uwaterloo.ca,"32,000",usnews
+#231,University of Naples Federico II,Italy,,,,usnews
+#232,University of Leicester,United Kingdom,,,"14,464",usnews
+#233,Claude Bernard University Lyon 1,France,,,"26,624",usnews
+"#234
+Tie",Hong Kong Polytechnic University,Hong Kong,,,"21,773",usnews
+"#234
+Tie",Macquarie University,Australia,,,"27,955",usnews
+"#234
+Tie",University of Texas--Dallas,United States,800 W. Campbell Road,www.utdallas.edu,"22,967",usnews
+"#237
+Tie",Sun Yat-sen University,China,,,"51,089",usnews
+"#237
+Tie",University of New Mexico,United States,1 University of New Mexico,www.unm.edu,"23,987",usnews
+"#239
+Tie","?cole Normale Superieure, Paris",France,,,,usnews
+"#239
+Tie",Oregon State University,United States,104 Kerr Administration Building,oregonstate.edu,"23,668",usnews
+"#239
+Tie",Technion Israel Institute of Technology,Israel,,,"14,693",usnews
+"#239
+Tie",University of Aberdeen,United Kingdom,,,"11,879",usnews
+#243,University of Cologne,Germany,,,,usnews
+"#244
+Tie",London School of Economics and Political Science,United Kingdom,,,"9,677",usnews
+"#244
+Tie",University of Pavia,Italy,,,"23,632",usnews
+#246,University of St. Andrews,United Kingdom,,,"8,858",usnews
+"#247
+Tie",Nagoya University,Japan,,,"15,594",usnews
+"#247
+Tie",University at Buffalo--SUNY,United States,3435 Main Street,www.buffalo.edu,"25,247",usnews
+#249,University of Kansas,United States,1502 Iowa Street,www.ku.edu,"24,515",usnews
+"#250
+Tie",Colorado State University,United States,1062 Campus Delivery,www.colostate.edu,"23,921",usnews
+"#250
+Tie",Lancaster University,United Kingdom,,,"11,751",usnews
+"#250
+Tie",Virginia Tech,United States,"Blacksburg, Virginia 24061",www.vt.edu,"30,975",usnews
+"#253
+Tie",Brandeis University,United States,415 South Street,www.brandeis.edu,"5,620",usnews
+"#253
+Tie",James Cook University,Australia,,,"11,867",usnews
+"#255
+Tie",Aalto University,Finland,,,"12,744",usnews
+"#255
+Tie",Free University of Brussels,Belgium,,,,usnews
+"#257
+Tie",University College Dublin,Ireland,,,"21,605",usnews
+"#257
+Tie",University of Kiel,Germany,,,,usnews
+"#257
+Tie",Yeshiva University,United States,500 W. 185th Street,www.yu.edu,,usnews
+"#260
+Tie",George Washington University,United States,2121 I Street NW,www.gwu.edu,"22,032",usnews
+"#260
+Tie",University of Dundee,United Kingdom,,,"10,933",usnews
+"#260
+Tie",University of Technology Sydney,Australia,,,,usnews
+"#260
+Tie",University of Valencia,Spain,,,"48,725",usnews
+#264,Curtin University of Technology,Australia,,,"31,483",usnews
+"#265
+Tie",Griffith University,Australia,,,"31,772",usnews
+"#265
+Tie",University of Georgia,United States,Administration Building,www.uga.edu,"33,842",usnews
+"#267
+Tie",Deakin University,Australia,,,"36,768",usnews
+"#267
+Tie",M. V. Lomonosov Moscow State University,Russia,,,"29,503",usnews
+"#267
+Tie",University of East Anglia,United Kingdom,,,"14,232",usnews
+"#267
+Tie",University of Oregon,United States,1226 University of Oregon,www.uoregon.edu,"22,832",usnews
+"#267
+Tie",Western University,Canada,1151 Richmond Street,welcome.uwo.ca,"28,996",usnews
+#272,University of Nebraska--Lincoln,United States,14th and R Streets,www.unl.edu,"22,578",usnews
+#273,University of Victoria,Canada,PO Box 1700 STN CSC,www.uvic.ca,"18,388",usnews
+"#274
+Tie",Korea University,South Korea,,,"23,037",usnews
+"#274
+Tie",Norwegian University of Science and Technology,Norway,,,"21,571",usnews
+"#274
+Tie",Queensland University of Technology,Australia,,,"35,748",usnews
+"#274
+Tie",Umeå University,Sweden,,,"16,553",usnews
+"#274
+Tie",University of Rome Tor Vergata,Italy,,,,usnews
+"#279
+Tie",Georgetown University,United States,37th and O Streets NW,www.georgetown.edu,"15,552",usnews
+"#279
+Tie",University of Innsbruck,Austria,,,"14,530",usnews
+#281,Tokyo Institute of Technology,Japan,,,"9,570",usnews
+"#282
+Tie",Huazhong University of Science and Technology,China,,,"56,140",usnews
+"#282
+Tie",International School for Advanced Studies,Italy,,,,usnews
+"#282
+Tie",Simon Fraser University,Canada,8888 University Drive,www.sfu.ca,"26,309",usnews
+#285,University of Ulm,Germany,,,"10,657",usnews
+"#286
+Tie",National and Kapodistrian University of Athens,Greece,,,,usnews
+"#286
+Tie",Polytechnic University of Milan,Italy,,,"33,189",usnews
+"#286
+Tie",University of South Florida,United States,4202 E. Fowler Avenue,www.usf.edu,"34,086",usnews
+#289,University of Duisburg-Essen,Germany,,,"41,916",usnews
+"#290
+Tie",Aalborg University,Denmark,,,"15,512",usnews
+"#290
+Tie",Eindhoven University of Technology,Netherlands,,,,usnews
+"#290
+Tie",Queen's University Belfast,United Kingdom,,,"18,882",usnews
+"#290
+Tie",University of Milan - Bicocca,Italy,,,,usnews
+"#290
+Tie",University of Newcastle,Australia,,,,usnews
+"#290
+Tie",University of Wollongong,Australia,,,"16,947",usnews
+"#296
+Tie",Laval University,Canada,,,"29,319",usnews
+"#296
+Tie",Pohang University of Science and Technology,South Korea,,,,usnews
+"#296
+Tie","Royal Holloway, University of London (RHUL)",United Kingdom,,,"9,124",usnews
+"#296
+Tie",Technical University of Berlin,Germany,,,"22,390",usnews
+"#296
+Tie",University of Turku,Finland,,,"12,263",usnews
+"#301
+Tie",University of Malaya,Malaysia,,,"21,990",usnews
+"#301
+Tie",University of Reading,United Kingdom,,,"13,047",usnews
+"#301
+Tie",Vienna University of Technology,Austria,,,,usnews
+"#304
+Tie",Harbin Institute of Technology,China,,,"29,395",usnews
+"#304
+Tie",Indiana University-Purdue University--Indianapolis,United States,425 N. University Boulevard,www.iupui.edu,,usnews
+"#304
+Tie",University of Delaware,United States,"Newark, Delaware 19716",www.udel.edu,"20,125",usnews
+#307,Yonsei University,South Korea,,,"23,293",usnews
+"#308
+Tie",Grenoble Institute of Technology,France,,,,usnews
+"#308
+Tie",Vita-Salute San Raffaele University,Italy,,,,usnews
+"#310
+Tie",University of Porto,Portugal,,,"31,743",usnews
+"#310
+Tie",University of South Carolina,United States,"Columbia, South Carolina 29208",www.sc.edu,"30,012",usnews
+"#310
+Tie",Wayne State University,United States,656 W. Kirby,www.wayne.edu,"22,215",usnews
+#313,University of Connecticut,United States,"Storrs, Connecticut 06269",www.uconn.edu,"26,734",usnews
+#314,Middle East Technical University,Turkey,,,"26,739",usnews
+#315,Pontificia University Católica de Chile,Chile,,,"27,065",usnews
+"#316
+Tie",Kyushu University,Japan,,,"18,696",usnews
+"#316
+Tie",University of Granada,Spain,,,,usnews
+"#316
+Tie",University of Tasmania,Australia,,,"11,346",usnews
+#319,University of Twente,Netherlands,,,"6,697",usnews
+#320,University of Perugia,Italy,,,,usnews
+"#321
+Tie",Linköping University,Sweden,,,,usnews
+"#321
+Tie",University of Canterbury,New Zealand,,,"11,931",usnews
+"#321
+Tie",Wuhan University,China,,,"50,178",usnews
+"#324
+Tie",Beijing Normal University,China,,,,usnews
+"#324
+Tie",Swedish University of Agricultural Sciences,Sweden,,,"3,812",usnews
+"#324
+Tie",University of Kentucky,United States,101 Main Building,www.uky.edu,,usnews
+#327,Tongji University,China,,,"35,810",usnews
+#328,Dalhousie University,Canada,6299 South Street,www.dal.ca,"15,506",usnews
+"#329
+Tie",Heinrich Heine University of Dusseldorf,Germany,,,,usnews
+"#329
+Tie",University of Oklahoma,United States,660 Parrington Oval,www.ou.edu,"27,333",usnews
+"#331
+Tie",University of Savoie,France,,,,usnews
+"#331
+Tie",University of Tartu,Estonia,,,"8,834",usnews
+"#333
+Tie",Nankai University,China,,,,usnews
+"#333
+Tie",University of Southern Denmark,Denmark,,,,usnews
+"#333
+Tie",Wake Forest University,United States,1834 Wake Forest Rd.,www.wfu.edu,"7,595",usnews
+"#336
+Tie",Istanbul Technical University,Turkey,,,"36,061",usnews
+"#336
+Tie",University of KwaZulu Natal,South Africa,,,"32,448",usnews
+"#338
+Tie",Complutense University of Madrid,Spain,,,"62,392",usnews
+"#338
+Tie",Federal University of Rio de Janeiro,Brazil,,,,usnews
+"#338
+Tie",University at Albany--SUNY,United States,1400 Washington Avenue,www.albany.edu,"15,821",usnews
+"#341
+Tie",Baylor University,United States,1 Bear Place,www.baylor.edu,,usnews
+"#341
+Tie",University of Buenos Aires,Argentina,,,,usnews
+"#341
+Tie",University of Missouri,United States,105 Jesse Hall,www.missouri.edu,,usnews
+"#344
+Tie",Friedrich Schiller University of Jena,Germany,,,,usnews
+"#344
+Tie",Louisiana State University--Baton Rouge,United States,156 Thomas Boyd Hall,www.lsu.edu,"29,533",usnews
+"#344
+Tie",State University of Campinas,Brazil,,,"27,545",usnews
+"#344
+Tie",University of Colorado--Denver,United States,"Denver, Colorado 80204",www.ucdenver.edu,,usnews
+"#344
+Tie",Xiamen University,China,,,"41,430",usnews
+"#349
+Tie",Politecnico di Bari,Italy,,,,usnews
+"#349
+Tie",Ruhr University Bochum,Germany,,,,usnews
+"#349
+Tie",St George's University of London,United Kingdom,,,"3,172",usnews
+"#349
+Tie",University of Genoa,Italy,,,"35,711",usnews
+"#349
+Tie",University of Liège,Belgium,,,,usnews
+"#354
+Tie",University of Iceland,Iceland,,,"8,693",usnews
+"#354
+Tie",University of Leipzig,Germany,,,,usnews
+#356,Washington State University,United States,"Pullman, Washington 99164",www.wsu.edu,"27,135",usnews
+"#357
+Tie",University of Eastern Finland,Finland,,,"11,459",usnews
+"#357
+Tie",Waseda University,Japan,,,"49,865",usnews
+"#359
+Tie",Hannover Medical School,Germany,,,,usnews
+"#359
+Tie",Ivane Javakhishvili Tbilisi State University,Georgia,,,"21,866",usnews
+"#359
+Tie",Stellenbosch University,South Africa,,,"23,207",usnews
+"#359
+Tie",University of Warsaw,Poland,,,"50,026",usnews
+"#363
+Tie",Aristotle University of Thessaloniki,Greece,,,"45,709",usnews
+"#363
+Tie",University of Tsukuba,Japan,,,"16,514",usnews
+"#363
+Tie",University of Western Sydney,Australia,,,,usnews
+#366,University of Giessen,Germany,,,,usnews
+"#367
+Tie",Universite de Bordeaux,France,,,"52,564",usnews
+"#367
+Tie",University of Trento,Italy,,,"17,759",usnews
+"#367
+Tie",Virginia Commonwealth University,United States,"Richmond, Virginia 23284",www.vcu.edu,,usnews
+"#370
+Tie",Hokkaido University,Japan,,,"18,038",usnews
+"#370
+Tie",National Tsing Hua University,Taiwan,,,"10,194",usnews
+"#370
+Tie",University of Hawaii--Manoa,United States,2500 Campus Road,www.manoa.hawaii.edu,"16,256",usnews
+"#370
+Tie",University of Lorraine,France,,,,usnews
+"#374
+Tie",Chalmers University of Technology,Sweden,,,"9,112",usnews
+"#374
+Tie",National Autonomous University of Mexico,Mexico,,,"145,024",usnews
+"#374
+Tie",Queen's University,Canada,,,"21,228",usnews
+"#377
+Tie",Kansas State University,United States,Anderson Hall,www.k-state.edu,"22,017",usnews
+"#377
+Tie",King Saud University,Saudi Arabia,"Riyadh, 11451",ksu.edu.sa,"34,489",usnews
+#379,University of Bath,United Kingdom,,,"13,706",usnews
+"#380
+Tie",Blaise Pascal University,France,,,,usnews
+"#380
+Tie",Xi'an Jiaotong University,China,,,"32,199",usnews
+"#382
+Tie",Southeast University,China,,,"32,464",usnews
+"#382
+Tie",University of Houston,United States,4800 Calhoun Road,www.uh.edu,"41,128",usnews
+#384,ENS De Lyon,France,,,,usnews
+"#385
+Tie",Temple University,United States,1801 N. Broad Street,www.temple.edu,"33,958",usnews
+"#385
+Tie",University of the Andes Colombia,Colombia,,,"16,664",usnews
+"#385
+Tie",Versailles Saint-Quentin-en-Yvelines University (UVSQ),France,,,,usnews
+#388,Jagiellonian University,Poland,,,"42,594",usnews
+#389,Thomas Jefferson University,United States,1020 Walnut Street,www.jefferson.edu,,usnews
+"#390
+Tie",Syracuse University,United States,"Syracuse, New York 13244",syr.edu,"20,180",usnews
+"#390
+Tie",University of Coimbra,Portugal,,,"21,928",usnews
+"#392
+Tie",Ulsan National Institute of Science & Technology,South Korea,,,,usnews
+"#392
+Tie",University of Bari,Italy,,,"47,856",usnews
+#394,University of Ljubljana,Slovenia,,,"42,922",usnews
+"#395
+Tie",University of Oulu,Finland,,,"10,287",usnews
+"#395
+Tie",York University,Canada,4700 Keele Street,www.yorku.ca,"46,146",usnews
+"#397
+Tie",China University of Geosciences,China,,,,usnews
+"#397
+Tie",Medical University of Graz,Austria,,,,usnews
+"#397
+Tie",University of Belgrade,Serbia,,,"101,607",usnews
+"#400
+Tie",Medical University of South Carolina,United States,179 Ashley Avenue,www.musc.edu,,usnews
+"#400
+Tie",Shandong University,China,,,,usnews
+"#400
+Tie",South China University of Technology,China,,,"42,076",usnews
+"#400
+Tie",University of Siena,Italy,,,,usnews
+"#400
+Tie",University of South Australia,Australia,,,"17,575",usnews
+"#405
+Tie",College de France,France,,,,usnews
+"#405
+Tie",Medical University of Innsbruck,Austria,,,,usnews
+"#405
+Tie",University of Manitoba,Canada,,,"29,017",usnews
+"#405
+Tie",University of the Basque Country,Spain,,,"44,028",usnews
+#409,University of Mississippi,United States,"University, Mississippi 38677",www.olemiss.edu,,usnews
+"#410
+Tie",Czech Technical University in Prague,Czech Republic,,,,usnews
+"#410
+Tie",Dortmund University of Technology,Germany,,,,usnews
+"#410
+Tie",Florida International University,United States,University Park,www.fiu.edu,"32,838",usnews
+#413,Rush University,United States,"600 S. Paulina Street, Suite 440",www.rushu.rush.edu,,usnews
+"#414
+Tie",Drexel University,United States,3141 Chestnut Street,www.drexel.edu,,usnews
+"#414
+Tie",University of Surrey,United Kingdom,,,"12,355",usnews
+"#416
+Tie",University of Chile,Chile,,,,usnews
+"#416
+Tie",University of Santiago of Compostela,Spain,,,"27,573",usnews
+"#418
+Tie",Brunel University,United Kingdom,,,"12,165",usnews
+"#418
+Tie",Philipps University of Marburg,Germany,,,,usnews
+"#418
+Tie",University of Regensburg,Germany,,,,usnews
+#421,Boston College,United States,140 Commonwealth Avenue,www.bc.edu,"12,943",usnews
+"#422
+Tie",Darmstadt University of Technology,Germany,,,,usnews
+"#422
+Tie",Flinders University,Australia,,,"16,757",usnews
+"#422
+Tie",Swinburne University of Technology,Australia,,,"13,269",usnews
+#425,University of Guelph,Canada,50 Stone Road E,www.uoguelph.ca,,usnews
+"#426
+Tie",RMIT University,Australia,,,"31,465",usnews
+"#426
+Tie",Universite Nice Sophia Antipolis,France,,,,usnews
+"#426
+Tie",University of Plymouth,United Kingdom,,,"22,124",usnews
+"#429
+Tie",Dalian University of Technology,China,,,"38,678",usnews
+"#429
+Tie",George Mason University,United States,4400 University Drive,www.gmu.edu,"27,749",usnews
+"#429
+Tie",Polytechnic University of Catalonia,Spain,,,"21,581",usnews
+"#429
+Tie",Universidad Tecnica Federico Santa Maria,Chile,,,,usnews
+"#429
+Tie",University of Potsdam,Germany,,,,usnews
+"#434
+Tie",Polytechnic University of Turin,Italy,,,"30,903",usnews
+"#434
+Tie",Rensselaer Polytechnic Institute,United States,110 Eighth Street,www.rpi.edu,,usnews
+"#434
+Tie",University of Catania,Italy,,,,usnews
+#437,National Technical University of Athens,Greece,,,,usnews
+"#438
+Tie",National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,,,"7,064",usnews
+"#438
+Tie",Universidade Tecnica de Lisboa,Portugal,,,,usnews
+"#438
+Tie",University of Minho,Portugal,,,"18,257",usnews
+"#441
+Tie",University of Alabama,United States,"Tuscaloosa, Alabama 35487",www.ua.edu,,usnews
+"#441
+Tie",University of Stuttgart,Germany,,,,usnews
+"#443
+Tie",Saarland University,Germany,,,,usnews
+"#443
+Tie",University of Nova de Lisboa,Portugal,,,"19,495",usnews
+"#445
+Tie",Central South University,China,,,"55,707",usnews
+"#445
+Tie",Université de Rennes 1,France,,,,usnews
+"#445
+Tie",University of Crete,Greece,,,"14,548",usnews
+"#448
+Tie",University of Massachusetts Worcester,United States,55 Lake Avenue N,www.umassmed.edu,,usnews
+"#448
+Tie",University of Texas--San Antonio,United States,One UTSA Circle,www.utsa.edu,"25,945",usnews
+"#450
+Tie",Cairo University,Egypt,Cairo University Rd,cu.edu.eg,"231,746",usnews
+"#450
+Tie",University College Cork,Ireland,,,"15,890",usnews
+"#450
+Tie",University of Vermont,United States,194 S. Prospect Street,www.uvm.edu,,usnews
+"#453
+Tie",Beihang University,China,,,"28,884",usnews
+"#453
+Tie",Colorado School of Mines,United States,1500 Illinois Street,www.mines.edu,"5,557",usnews
+"#453
+Tie",Jilin University,China,,,"68,514",usnews
+"#453
+Tie",University of Pretoria,South Africa,,,"36,005",usnews
+"#457
+Tie",University of Johannesburg,South Africa,,,"28,122",usnews
+"#457
+Tie",University of Jyväskylä,Finland,,,"10,020",usnews
+"#457
+Tie",Victoria University of Wellington,New Zealand,,,"17,086",usnews
+"#460
+Tie",Indian Institute of Science,India,,,"3,550",usnews
+"#460
+Tie",Tulane University,United States,6823 St. Charles Ave,www.tulane.edu,"11,193",usnews
+"#462
+Tie",London Business School,United Kingdom,,,,usnews
+"#462
+Tie",University of Cyprus,Cyprus,,,,usnews
+"#462
+Tie",University of Tehran,Iran,,,"59,457",usnews
+"#462
+Tie",University of Texas--Arlington,United States,701 S. Nedderman Drive,www.uta.edu,"26,325",usnews
+"#466
+Tie",Eotvos Lorand University,Hungary,,,,usnews
+"#466
+Tie",Georgia State University,United States,"Atlanta, Georgia 30302",www.gsu.edu,,usnews
+"#466
+Tie",Keio University,Japan,,,,usnews
+"#466
+Tie",Southern Methodist University,United States,PO Box 750181,www.smu.edu,,usnews
+"#466
+Tie",Tianjin University,China,,,"30,452",usnews
+"#471
+Tie",Federal University of Rio Grande do Sul,Brazil,,,,usnews
+"#471
+Tie",La Trobe University,Australia,,,"20,343",usnews
+"#471
+Tie",Medical College of Wisconsin,United States,8701 W Watertown Plank Road,www1.mcw.edu,,usnews
+"#471
+Tie",Novosibirsk State University,Russia,,,"7,242",usnews
+"#471
+Tie",University of Tampere,Finland,,,,usnews
+"#471
+Tie",University of Tromsø,Norway,,,"12,601",usnews
+"#477
+Tie",Massey University,New Zealand,,,"18,688",usnews
+"#477
+Tie",University of Bremen,Germany,,,"19,040",usnews
+"#479
+Tie",AgroParisTech,France,,,,usnews
+"#479
+Tie",China Agricultural University,China,,,"18,725",usnews
+"#479
+Tie",Hanyang University,South Korea,,,"20,879",usnews
+"#479
+Tie",Palacky University Olomouc,Czech Republic,,,"18,331",usnews
+"#479
+Tie",Soochow University,China,,,"45,109",usnews
+"#479
+Tie",Tokyo Metropolitan University,Japan,,,"9,263",usnews
+"#479
+Tie",University of Konstanz,Germany,,,"11,381",usnews
+"#479
+Tie",University of Oviedo,Spain,,,,usnews
+"#487
+Tie",Ben-Gurion University of the Negev,Israel,,,"17,979",usnews
+"#487
+Tie",Texas Tech University,United States,2500 Broadway,www.ttu.edu,"31,897",usnews
+"#487
+Tie",University of Split,Croatia,,,,usnews
+"#487
+Tie",University of Strathclyde,United Kingdom,,,"17,162",usnews
+"#491
+Tie",Beijing Institute of Technology,China,,,"28,174",usnews
+"#491
+Tie",Bilkent University,Turkey,,,"10,007",usnews
+"#491
+Tie",Hiroshima University,Japan,,,"14,769",usnews
+"#491
+Tie",Roma Tre University,Italy,,,,usnews
+"#491
+Tie",Tilburg University,Netherlands,Warandelaan 2,www.tilburguniversity.nl,"7,738",usnews
+"#491
+Tie",University of Graz,Austria,,,,usnews
+"#497
+Tie",Federal University of Minas Gerais,Brazil,,,,usnews
+"#497
+Tie",Islamic Azad University,Iran,,,,usnews
+"#497
+Tie",Makerere University,Uganda,,,,usnews
+"#497
+Tie",Swansea University,United Kingdom,,,"13,785",usnews
+"#497
+Tie",University of Wisconsin--Milwaukee,United States,PO Box 413,www.uwm.edu,,usnews
+"#497
+Tie",University of Zaragoza,Spain,,,"29,924",usnews
+"#503
+Tie",Polytechnic University of Valencia,Spain,,,"23,471",usnews
+"#503
+Tie",University of Udine,Italy,,,,usnews
+"#505
+Tie",Carleton University,Canada,1125 Colonel By Drive,carleton.ca,,usnews
+"#505
+Tie",Oklahoma State University,United States,101 Whitehurst Hall,osu.okstate.edu,,usnews
+"#505
+Tie",UNESP - Universidade Estadual Paulista,Brazil,,,,usnews
+"#505
+Tie",University of Calabria,Italy,,,,usnews
+"#509
+Tie",Mahidol University,Thailand,,,"28,996",usnews
+"#509
+Tie",University of Central Florida,United States,4000 Central Florida Boulevard,www.ucf.edu,"53,196",usnews
+"#511
+Tie",Comenius University in Bratislava,Slovakia,,,"22,857",usnews
+"#511
+Tie",East China Normal University,China,,,"27,189",usnews
+"#513
+Tie",Central China Normal University,China,,,"49,252",usnews
+"#513
+Tie",Panjab University,India,,,,usnews
+"#513
+Tie",Universidade Federal do ABC (UFABC),Brazil,,,,usnews
+"#513
+Tie",University of Ferrara,Italy,,,"13,902",usnews
+"#513
+Tie",University of Navarra,Spain,,,"10,827",usnews
+#518,NUI Galway,Ireland,,,,usnews
+"#519
+Tie",National Cheng Kung University,Taiwan,,,"21,337",usnews
+"#519
+Tie",Sharif University of Technology,Iran,,,"11,228",usnews
+"#519
+Tie",Sichuan University,China,,,"60,848",usnews
+"#519
+Tie",University of New Hampshire,United States,105 Main Street,www.unh.edu,,usnews
+"#523
+Tie",Aveiro University,Portugal,,,"10,105",usnews
+"#523
+Tie",CentraleSupelec,France,,,,usnews
+"#523
+Tie",University of Nantes,France,,,,usnews
+"#526
+Tie",Kyung Hee University,South Korea,,,"23,512",usnews
+"#526
+Tie",San Diego State University,United States,5500 Campanile Drive,www.sdsu.edu,"29,136",usnews
+"#526
+Tie",University of Zagreb,Croatia,,,"69,699",usnews
+"#529
+Tie",Bielefeld University,Germany,,,"23,683",usnews
+"#529
+Tie",National Central University,Taiwan,,,"10,859",usnews
+"#529
+Tie",Rio de Janeiro State University,Brazil,,,,usnews
+"#529
+Tie",University of Fribourg,Switzerland,,,,usnews
+"#529
+Tie",University of Massachusetts--Boston,United States,100 Morrissey Blvd,www.umb.edu,,usnews
+#534,Moscow Institute of Physics,Russia,,,"5,761",usnews
+"#535
+Tie",Hong Kong Baptist University,Hong Kong,,,"11,467",usnews
+"#535
+Tie",Kobe University,Japan,,,"15,751",usnews
+"#535
+Tie",Lanzhou University,China,,,,usnews
+#538,Saint Petersburg State University,Russia,,,"21,433",usnews
+"#539
+Tie",Chulalongkorn University,Thailand,,,"38,734",usnews
+"#539
+Tie",Heriot Watt University,United Kingdom,,,"9,269",usnews
+"#539
+Tie",University of Rovira i Virgili,Spain,,,"12,604",usnews
+"#539
+Tie",University of Saskatchewan,Canada,105 Administration Place,explore.usask.ca,"16,712",usnews
+"#543
+Tie",Catholic University of Sacred Heart,Italy,,,"32,844",usnews
+"#543
+Tie",Loughborough University,United Kingdom,,,"14,285",usnews
+"#543
+Tie",Masaryk University,Czech Republic,,,"34,756",usnews
+"#543
+Tie",University of Seville,Spain,,,"54,413",usnews
+"#543
+Tie",Vilnius University,Lithuania,,,"17,364",usnews
+"#548
+Tie",Indian Institute of Technology Bombay,India,,,,usnews
+"#548
+Tie",Okayama University,Japan,,,"13,115",usnews
+"#548
+Tie",University of Bodenkultur Wien,Austria,,,,usnews
+#551,Shanghai University,China,,,,usnews
+#552,Université du Québec ? Montréal,Canada,,,"34,916",usnews
+"#553
+Tie",East China University of Science and Technology,China,,,"24,207",usnews
+"#553
+Tie",University of Mons,Belgium,,,,usnews
+"#555
+Tie",Kyungpook National University,South Korea,,,"27,165",usnews
+"#555
+Tie",University of Bayreuth,Germany,,,,usnews
+"#555
+Tie",University of Salamanca,Spain,,,"30,943",usnews
+"#555
+Tie",University of Verona,Italy,,,,usnews
+"#559
+Tie",Bar-Ilan University,Israel,,,"16,412",usnews
+"#559
+Tie",Quaid I Azam University,Pakistan,,,,usnews
+"#559
+Tie",University of Debrecen,Hungary,,,"27,519",usnews
+"#562
+Tie",Universiti Teknologi Malaysia,Malaysia,,,"18,214",usnews
+"#562
+Tie",University of Hannover,Germany,,,"25,163",usnews
+"#562
+Tie",University of Ioannina,Greece,,,,usnews
+"#565
+Tie",Ewha Womans University,South Korea,,,"15,044",usnews
+"#565
+Tie",University of Rostock,Germany,,,,usnews
+"#567
+Tie",Hacettepe University,Turkey,,,"39,181",usnews
+"#567
+Tie",University of Modena and Reggio Emilia,Italy,,,,usnews
+#569,St. Louis University,United States,One North Grand Boulevard,www.slu.edu,,usnews
+"#570
+Tie",Lappeenranta University of Technology,Finland,,,"3,622",usnews
+"#570
+Tie",Liverpool John Moores University (LJMU),United Kingdom,,,"18,401",usnews
+"#570
+Tie",University of Seoul,South Korea,,,,usnews
+"#573
+Tie",Benemerita Universidad Autonoma de Puebla,Mexico,,,,usnews
+"#573
+Tie",Chonnam National University,South Korea,,,"23,984",usnews
+"#573
+Tie",National Chiao Tung University,Taiwan,,,"12,639",usnews
+"#576
+Tie",Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris,France,,,,usnews
+"#576
+Tie",Norwegian University of Life Sciences,Norway,,,,usnews
+"#576
+Tie",University of Mannheim,Germany,,,,usnews
+"#579
+Tie",Universiti Sains Malaysia,Malaysia,,,"25,975",usnews
+"#579
+Tie",University of Lille I,France,,,,usnews
+"#581
+Tie",Kent State University,United States,PO Box 5190,www.kent.edu,"23,647",usnews
+"#581
+Tie",University of Salerno,Italy,,,,usnews
+"#583
+Tie",Babe?-Bolyai University,Romania,,,"37,961",usnews
+"#583
+Tie",Polytechnic University of Madrid,Spain,,,,usnews
+"#583
+Tie",University of Louisville,United States,2301 S. Third Street,www.louisville.edu,,usnews
+"#586
+Tie",Federal University of São Paulo,Brazil,,,,usnews
+"#586
+Tie",Hunan University,China,,,"42,004",usnews
+"#586
+Tie",University of Palermo,Italy,,,"43,249",usnews
+#589,University of Portsmouth,United Kingdom,,,,usnews
+"#590
+Tie",Ankara University,Turkey,,,"65,703",usnews
+"#590
+Tie",Isfahan University of Technology,Iran,,,"9,323",usnews
+"#590
+Tie",University of Alaska--Fairbanks,United States,505 South Chandalar Drive,www.uaf.edu,"3,769",usnews
+#593,University of Salento,Italy,,,"19,001",usnews
+"#594
+Tie",College of William and Mary,United States,PO Box 8795,,"8,044",usnews
+"#594
+Tie",University of Brescia,Italy,,,"14,542",usnews
+"#594
+Tie",University of Kent,United Kingdom,,,,usnews
+"#597
+Tie",Martin Luther University of Halle-Wittenberg,Germany,,,,usnews
+"#597
+Tie",National University La Plata,Argentina,,,,usnews
+"#597
+Tie",University of Electronic Science and Technology of China,China,,,"34,052",usnews
+"#597
+Tie",University of Essex,United Kingdom,,,"12,602",usnews
+"#601
+Tie",Brigham Young University--Provo,United States,A-209 ASB,www.byu.edu,,usnews
+"#601
+Tie",Open University,United Kingdom,,,"67,361",usnews
+"#601
+Tie",University of Ulsan,South Korea,,,,usnews
+"#604
+Tie",AGH University of Science & Technology,Poland,,,,usnews
+"#604
+Tie",University of Wyoming,United States,1000 E. University Avenue,www.uwyo.edu,,usnews
+#606,Auckland University of Technology,New Zealand,,,"17,861",usnews
+"#607
+Tie",Murdoch University,Australia,,,,usnews
+"#607
+Tie",University of Hertfordshire,United Kingdom,,,"18,997",usnews
+"#607
+Tie",University of Parma,Italy,,,,usnews
+"#607
+Tie",University of Sherbrooke,Canada,,,,usnews
+"#611
+Tie",Bangor University,United Kingdom,,,"9,292",usnews
+"#611
+Tie",Renmin University of China,China,,,"25,183",usnews
+"#611
+Tie",University of Cagliari,Italy,,,,usnews
+"#611
+Tie",University of Missouri--Kansas City,United States,5100 Rockhill Road,www.umkc.edu,,usnews
+"#615
+Tie",Aberystwyth University,United Kingdom,,,"7,979",usnews
+"#615
+Tie",Warsaw University of Technology,Poland,,,"33,766",usnews
+#617,Utah State University,United States,Old Main Hill,www.usu.edu,,usnews
+"#618
+Tie",Clemson University,United States,105 Sikes Hall,www.clemson.edu,,usnews
+"#618
+Tie",Graz University of Technology,Austria,,,,usnews
+"#620
+Tie",Universitat de Girona,Spain,,,,usnews
+"#620
+Tie",University of Montana,United States,32 Campus Drive,www.umt.edu,"9,573",usnews
+#622,University of Maryland--Baltimore County,United States,"Baltimore, Maryland",,,usnews
+"#623
+Tie",King Fahd University of Petroleum and Minerals (KFUPM),Saudi Arabia,"Dhahran, 31261",www.kfupm.edu.sa,,usnews
+"#623
+Tie",Memorial University of Newfoundland,Canada,"St. John's, NL, A1C 5S7",www.mun.ca,,usnews
+"#623
+Tie",Parthenope University Naples,Italy,,,,usnews
+"#623
+Tie",Pusan National University,South Korea,,,,usnews
+"#627
+Tie",Tokyo Medical and Dental University,Japan,,,"2,906",usnews
+"#627
+Tie",University Hohenheim,Germany,,,,usnews
+"#627
+Tie",University of North Texas,United States,1155 Union Circle #311425,www.unt.edu,,usnews
+"#630
+Tie",Chiba University,Japan,,,"14,002",usnews
+"#630
+Tie",Ernst Moritz Arndt Universitat Greifswald,Germany,,,,usnews
+"#630
+Tie",Indian Institute of Technology Delhi,India,,,,usnews
+"#630
+Tie",Old Dominion University,United States,5115 Hampton Boulevard,www.odu.edu,"19,629",usnews
+"#634
+Tie",Helwan University,Egypt,Al Sikka Al Hadid Al Gharbeya,www.helwan.edu.eg,,usnews
+"#634
+Tie",Illinois Institute of Technology,United States,3300 S. Federal Street,iit.edu,,usnews
+"#634
+Tie",University of Eastern Piedmont Amedeo Avogadro,Italy,,,,usnews
+"#634
+Tie",University of Sofia,Bulgaria,,,,usnews
+"#638
+Tie",Institut National Polytechnique de Toulouse,France,,,,usnews
+"#638
+Tie",Tampere University of Technology,Finland,,,"5,490",usnews
+"#638
+Tie",Universiti Putra Malaysia,Malaysia,,,"25,929",usnews
+"#638
+Tie",University of Texas Medical Branch--Galveston,United States,301 University Boulevard,www.utmb.edu,,usnews
+"#638
+Tie",West Virginia University,United States,PO Box 6201,www.wvu.edu,"27,205",usnews
+"#643
+Tie",Birkbeck University London,United Kingdom,,,"9,013",usnews
+"#643
+Tie",Victoria University,Australia,,,,usnews
+"#645
+Tie",Augusta University,United States,1120 15th Street,www.georgiahealth.edu,,usnews
+"#645
+Tie",Beijing Jiaotong University,China,,,"24,610",usnews
+"#645
+Tie",Chonbuk National University,South Korea,,,"23,728",usnews
+"#645
+Tie",Concordia University,Canada,"Montréal, Québec",www.concordia.ca,"32,331",usnews
+"#649
+Tie",Northern Illinois University,United States,PO Box 3001,www.niu.edu,,usnews
+"#649
+Tie",University of Lubeck,Germany,,,,usnews
+"#651
+Tie",Braunschweig University of Technology,Germany,,,,usnews
+"#651
+Tie",City University London,United Kingdom,,,"13,238",usnews
+"#651
+Tie",INSEAD Business School,France,,,,usnews
+#654,Northern Arizona University,United States,S San Francisco St,www.nau.edu,"27,609",usnews
+#655,Chongqing University,China,,,"49,391",usnews
+"#656
+Tie",Loyola University Chicago,United States,1032 W. Sheridan Road,www.luc.edu,,usnews
+"#656
+Tie",Semmelweis University,Hungary,,,"10,880",usnews
+#658,Federal University of Santa Catarina,Brazil,,,,usnews
+"#659
+Tie",Universidad Autonoma de San Luis Potosi,Mexico,,,,usnews
+"#659
+Tie",University of Luxembourg,Luxembourg,,,,usnews
+"#661
+Tie",Amirkabir University of Technology (AUT),Iran,,,,usnews
+"#661
+Tie",Lehigh University,United States,27 Memorial Drive W,www.lehigh.edu,"6,476",usnews
+"#663
+Tie",Auburn University,United States,202 Martin Hall,www.auburn.edu,"23,186",usnews
+"#663
+Tie",Donghua University,China,,,"23,994",usnews
+"#663
+Tie",Gwangju Institute of Science and Technology,South Korea,,,"1,731",usnews
+"#663
+Tie",University of Burgundy,France,,,,usnews
+"#663
+Tie",University of Science & Technology Beijing,China,,,,usnews
+"#668
+Tie",Belarusian State University,Belarus,,,"27,384",usnews
+"#668
+Tie",Istanbul University,Turkey,,,"96,144",usnews
+"#668
+Tie",University of Arkansas,United States,232 Silas Hunt Hall,www.uark.edu,"24,140",usnews
+"#668
+Tie",University of Patras,Greece,,,"24,989",usnews
+#672,Indian Institute of Technology Madras,India,,,"9,033",usnews
+"#673
+Tie",Johannes Kepler University of Linz,Austria,,,,usnews
+"#673
+Tie",Montana State University,United States,"Bozeman, Montana 59717",www.montana.edu,,usnews
+"#673
+Tie",Nanjing Agricultural University,China,,,"26,301",usnews
+"#673
+Tie",New Mexico State University,United States,"Box 30001, MSC 3004",www.nmsu.edu,"13,670",usnews
+"#673
+Tie",University of Denver,United States,2199 S. University Boulevard,www.du.edu,,usnews
+"#673
+Tie",University of Hull,United Kingdom,,,"13,709",usnews
+"#673
+Tie",University of Stirling,United Kingdom,,,,usnews
+#680,American University of Beirut,Lebanon,Riad El-Solh,www.aub.edu.lb,"8,045",usnews
+"#681
+Tie",Ecole Pratique des Hautes Etudes,France,,,"1,230",usnews
+"#681
+Tie",Otto von Guericke University,Germany,,,,usnews
+"#681
+Tie",Saint Petersburg State Polytechnic University,Russia,,,"16,775",usnews
+"#681
+Tie",University of Orleans,France,,,,usnews
+"#681
+Tie",University of Paris-Est Creteil,France,,,,usnews
+"#686
+Tie",Suez Canal University,Egypt,4.5 Km the Ring Road,scuegypt.edu.eg,,usnews
+"#686
+Tie",University of Marrakech Cadi Ayyad,Morocco,,,,usnews
+"#686
+Tie",University of New England,Australia,,,,usnews
+"#689
+Tie",Edith Cowan University,Australia,,,"16,398",usnews
+"#689
+Tie",Ohio University,United States,1 Ohio University,www.ohio.edu,,usnews
+"#689
+Tie",University of Waikato,New Zealand,,,"10,019",usnews
+#692,University of Akron,United States,302 Buchtel Common,www.uakron.edu,,usnews
+"#693
+Tie",Keele University,United Kingdom,,,"7,893",usnews
+"#693
+Tie",Marche Polytechnic University,Italy,,,,usnews
+"#693
+Tie",University of California--Merced,United States,5200 Lake Rd,www.ucmerced.edu,,usnews
+"#696
+Tie",Aston University,United Kingdom,,,"9,582",usnews
+"#696
+Tie",National University of Malaysia,Malaysia,,,"19,353",usnews
+"#698
+Tie",Indian Institute of Technology Kharagpur,India,,,"11,016",usnews
+"#698
+Tie",Shinshu University,Japan,,,,usnews
+"#698
+Tie",University of Haifa,Israel,,,,usnews
+"#701
+Tie",Ege University,Turkey,,,,usnews
+"#701
+Tie",Tomsk State University,Russia,,,"8,022",usnews
+"#701
+Tie",Universidad Carlos III de Madrid,Spain,,,"16,429",usnews
+"#704
+Tie",Aligarh Muslim University,India,,,,usnews
+"#704
+Tie",Beijing University of Chemical Technology,China,,,,usnews
+"#704
+Tie",Carl von Ossietzky Universitat Oldenburg,Germany,,,,usnews
+"#704
+Tie",Indian Institute of Technology Kanpur,India,,,"6,472",usnews
+"#704
+Tie",National Taiwan University of Science and Technology,Taiwan,,,"7,981",usnews
+"#704
+Tie",University of Idaho,United States,875 Perimeter Drive MS 2282,www.uidaho.edu,"10,055",usnews
+"#710
+Tie",Indian Institute of Technology (IIT) - Roorkee,India,,,,usnews
+"#710
+Tie",Koc University - Turkey,Turkey,,,"5,172",usnews
+"#710
+Tie",University of the Republic - Uruguay,Uruguay,,,,usnews
+#713,University of Nevada--Reno,United States,"Reno, Nevada 89557",www.unr.edu,,usnews
+"#714
+Tie",Ain Shams University,Egypt,Khalifa El-Maamon st,www.asu.edu.eg,,usnews
+"#714
+Tie",Michigan Technological University,United States,1400 Townsend Drive,www.mtu.edu,,usnews
+"#714
+Tie",National Research University - Higher School of Economics,Russia,,,,usnews
+"#714
+Tie",Universitat de les Illes Balears,Spain,,,,usnews
+"#714
+Tie",University of Rhode Island,United States,"Kingston, Rhode Island 02881-0806",www.uri.edu,,usnews
+"#719
+Tie",Cranfield University,United Kingdom,,,,usnews
+"#719
+Tie",University of Delhi,India,,,,usnews
+"#721
+Tie",Dublin City University,Ireland,,,"9,180",usnews
+"#721
+Tie",Ocean University of China,China,,,"35,226",usnews
+"#721
+Tie",University of Concepción,Chile,,,,usnews
+#724,Southwest University - China,China,,,,usnews
+#725,Binghamton University--SUNY,United States,PO Box 6000,www.binghamton.edu,"17,238",usnews
+"#726
+Tie",CUNY--City College,United States,160 Convent Avenue,www.ccny.cuny.edu,,usnews
+"#726
+Tie",National Sun Yat-Sen University,Taiwan,,,"9,013",usnews
+"#726
+Tie",Universitat Jaume I,Spain,,,,usnews
+"#726
+Tie",University of Lille II,France,,,,usnews
+#730,Polytechnic University of Bucharest,Romania,,,,usnews
+"#731
+Tie",Northeastern University - China,China,,,"33,348",usnews
+"#731
+Tie",University of Brasilia,Brazil,,,,usnews
+"#731
+Tie",University of the Western Cape,South Africa,,,,usnews
+#734,Mississippi State University,United States,75 B.S. Hood Dr.,msstate.edu,"18,669",usnews
+"#735
+Tie",Capital Medical University,China,,,,usnews
+"#735
+Tie",Fuzhou University,China,,,,usnews
+"#735
+Tie",Huazhong Agricultural University,China,,,,usnews
+"#735
+Tie",University of Murcia,Spain,,,,usnews
+"#735
+Tie",University of Vigo,Spain,,,"19,472",usnews
+"#740
+Tie",Jacobs University,Germany,,,,usnews
+"#740
+Tie",University of Paris Dauphine - Paris IX,France,,,,usnews
+"#742
+Tie",Alexandria University,Egypt,El-Guish Road,www.alexu.edu.eg,"146,346",usnews
+"#742
+Tie",Cukurova University,Turkey,,,,usnews
+"#742
+Tie",Ritsumeikan University,Japan,,,"35,228",usnews
+"#742
+Tie",Universite de Haute-Alsace (UHA),France,,,,usnews
+"#742
+Tie",University of La Laguna,Spain,,,,usnews
+"#742
+Tie",University of Macau,Macau,,,,usnews
+"#748
+Tie",Nanjing University of Aeronautics and Astronautics,China,,,,usnews
+"#748
+Tie",University of Nevada--Las Vegas,United States,"4505 S. Maryland Parkway, Box 451021",www.unlv.edu,,usnews
+"#750
+Tie",China Medical University Taiwan,Taiwan,,,"7,752",usnews
+"#750
+Tie",Howard University,United States,2400 Sixth St NW,www.howard.edu,,usnews
+"#750
+Tie","Northwest University, Xi'an",China,,,"22,167",usnews
+"#753
+Tie",National Polytechnic Institute,Mexico,,,,usnews
+"#753
+Tie",Northwestern Polytechnical University,China,,,"26,904",usnews
+"#753
+Tie",University of Bucharest,Romania,,,"31,388",usnews
+"#756
+Tie",Mansoura University,Egypt,Elgomhouria St,www.mans.edu.eg,,usnews
+"#756
+Tie",National Yang-Ming University,Taiwan,,,"4,327",usnews
+"#756
+Tie",Tehran University of Medical Sciences,Iran,,,"12,668",usnews
+"#756
+Tie",University of London Royal Veterinary College,United Kingdom,,,,usnews
+"#756
+Tie",University of Neuchatel,Switzerland,,,,usnews
+"#756
+Tie",University of Szeged,Hungary,,,,usnews
+"#756
+Tie",University of Wroc?aw,Poland,,,,usnews
+"#763
+Tie",Universite Paul-Valery Montpellier 3,France,,,,usnews
+"#763
+Tie",University of Maribor,Slovenia,,,,usnews
+"#765
+Tie",Aga Khan University,Pakistan,,,,usnews
+"#765
+Tie",Maynooth University,Ireland,,,"8,361",usnews
+"#765
+Tie",Yildiz Teknik University,Turkey,,,"35,670",usnews
+"#768
+Tie",Banaras Hindu University,India,,,,usnews
+"#768
+Tie",Charles Darwin University,Australia,,,"6,551",usnews
+"#768
+Tie",University of Paris Nord - Paris XIII,France,,,,usnews
+#771,Mersin University,Turkey,,,,usnews
+#772,University of Kaiserslautern,Germany,,,,usnews
+"#773
+Tie",Sejong University,South Korea,,,"11,884",usnews
+"#773
+Tie",Universidad Nacional de Colombia,Colombia,,,,usnews
+"#773
+Tie",University of Paris Sorbonne - Paris IV,France,,,,usnews
+#776,Royal College of Surgeons - Ireland,Ireland,,,,usnews
+"#777
+Tie",Jiangnan University,China,,,"19,986",usnews
+"#777
+Tie",MINES ParisTech,France,,,"1,383",usnews
+"#777
+Tie",Missouri University of Science & Technology,United States,"106 Parker Hall, 300 W. 13th Street",www.mst.edu,,usnews
+"#777
+Tie",Salzburg University,Austria,,,,usnews
+"#781
+Tie",North West University - South Africa,South Africa,,,,usnews
+"#781
+Tie",University of Angers,France,,,,usnews
+"#781
+Tie",University of Louisiana--Lafayette,United States,PO Drawer 41008,www.louisiana.edu,,usnews
+"#781
+Tie",University of North Carolina--Charlotte,United States,9201 University City Blvd,www.uncc.edu,,usnews
+"#785
+Tie",Addis Ababa University,Ethiopia,,,,usnews
+"#785
+Tie",Chang Gung University,Taiwan,,,"7,540",usnews
+"#785
+Tie",Hasselt University,Belgium,,,,usnews
+"#785
+Tie",University of Basilicata,Italy,,,,usnews
+"#785
+Tie",Yeungnam University,South Korea,,,"20,532",usnews
+"#790
+Tie",All India Institute of Medical Sciences,India,,,,usnews
+"#790
+Tie",Hefei University of Technology,China,,,,usnews
+"#790
+Tie",Universidad de Cantabria,Spain,,,,usnews
+"#790
+Tie",Universite de Brest,France,,,,usnews
+"#790
+Tie",University of Ulster,United Kingdom,,,"20,207",usnews
+"#795
+Tie",Gazi University,Turkey,,,"78,630",usnews
+"#795
+Tie",Iran University Science & Technology,Iran,,,,usnews
+"#795
+Tie",Nanjing University of Science & Technology,China,,,"29,537",usnews
+"#795
+Tie",University of Brighton,United Kingdom,,,,usnews
+#799,Gyeongsang National University,South Korea,,,,usnews
+"#800
+Tie",Mohammed V University,Morocco,,,,usnews
+"#800
+Tie",Tokyo University of Science,Japan,,,"19,791",usnews
+"#800
+Tie",University of Qatar,Qatar,,,"13,342",usnews
+"#803
+Tie",Ecole Nationale Superieure de Chimie de Paris,France,,,,usnews
+"#803
+Tie",Northwest A&F University - China,China,,,,usnews
+"#803
+Tie",Rochester Institute of Technology,United States,1 Lomb Memorial Dr,www.rit.edu,,usnews
+#806,Tarbiat Modares University,Iran,,,,usnews
+"#807
+Tie",Adam Mickiewicz University,Poland,,,"39,982",usnews
+"#807
+Tie",China University of Petroleum,China,,,,usnews
+"#807
+Tie",Miami University--Oxford,United States,501 E High St,www.miamioh.edu,"17,098",usnews
+"#810
+Tie",Creighton University,United States,2500 California Plaza,www.creighton.edu,"8,213",usnews
+"#810
+Tie",University of Veterinary Medicine Vienna,Austria,,,,usnews
+#812,Konkuk University,South Korea,,,"15,229",usnews
+"#813
+Tie",Federal University of Sao Carlos,Brazil,,,,usnews
+"#813
+Tie",Inha University,South Korea,,,,usnews
+"#813
+Tie",New Jersey Institute of Technology,United States,323 Dr Martin Luther King Jr Blvd,www.njit.edu,"11,423",usnews
+"#813
+Tie",University of Canberra,Australia,,,,usnews
+"#813
+Tie",University of Poitiers,France,,,,usnews
+"#818
+Tie",Fourth Military Medical University,China,,,,usnews
+"#818
+Tie",Nanjing Normal University,China,,,"32,602",usnews
+"#818
+Tie",New York Medical College,United States,40 Sunshine Cottage Rd,www.nymc.edu,,usnews
+"#818
+Tie",Osaka City University,Japan,,,"8,386",usnews
+"#818
+Tie",Portland State University,United States,1825 SW Broadway,www.pdx.edu,,usnews
+"#818
+Tie",Ryerson University,Canada,350 Victoria Street,www.ryerson.ca,,usnews
+"#818
+Tie",University of Picardie-Jules-Verne,France,,,,usnews
+"#818
+Tie",University of Regina,Canada,3737 Wascana Parkway,www.uregina.ca,,usnews
+"#826
+Tie",Universidad de Cordoba,Spain,,,,usnews
+"#826
+Tie",Universidad de Malaga,Spain,,,,usnews
+"#826
+Tie",University of Toledo,United States,2801 W. Bancroft,www.utoledo.edu,,usnews
+"#829
+Tie",Federal University of Paraná,Brazil,,,,usnews
+"#829
+Tie",National University of Cordoba,Argentina,,,,usnews
+"#829
+Tie",Niigata University,Japan,,,,usnews
+"#832
+Tie",Australian Catholic University,Australia,,,"21,846",usnews
+"#832
+Tie",Seconda Universita degli Studi di Napoli,Italy,,,,usnews
+#834,University of Castilla-La Mancha,Spain,,,,usnews
+"#835
+Tie",Assiut University,Egypt,"Assiut, 71515",www.aun.edu.eg,,usnews
+"#835
+Tie",Universidad de Antioquia,Colombia,,,,usnews
+"#835
+Tie",University of Rouen,France,,,,usnews
+"#838
+Tie",Chiang Mai University,Thailand,,,"35,809",usnews
+"#838
+Tie",University of Aquila,Italy,,,,usnews
+"#840
+Tie",Abo Akademi University,Finland,,,,usnews
+"#840
+Tie",Jadavpur University,India,,,,usnews
+"#842
+Tie",National University of Defence Technology - China,China,,,,usnews
+"#842
+Tie",University of Insubria,Italy,,,,usnews
+#844,North China Electric Power University,China,,,,usnews
+"#845
+Tie",Kangwon National University,South Korea,,,,usnews
+"#845
+Tie",Orebro University,Sweden,,,,usnews
+"#845
+Tie",San Francisco State University,United States,1600 Holloway Ave,www.sfsu.edu,,usnews
+"#845
+Tie",Zhengzhou University,China,,,,usnews
+"#849
+Tie",Beijing University of Posts,China,,,,usnews
+"#849
+Tie",Budapest University of Technology & Economics,Hungary,,,,usnews
+"#849
+Tie",Kanazawa University,Japan,,,"10,464",usnews
+"#849
+Tie",Universidad de Alcala,Spain,,,"18,023",usnews
+"#849
+Tie",University of Caen,France,,,,usnews
+"#849
+Tie",University of Limerick,Ireland,,,,usnews
+"#855
+Tie",Kumamoto University,Japan,,,"10,214",usnews
+"#855
+Tie",Nanjing Medical University,China,,,,usnews
+"#857
+Tie",Graduate University for Advanced Studies - Japan,Japan,,,,usnews
+"#857
+Tie",University of Memphis,United States,3720 Alumni Ave,www.memphis.edu,,usnews
+"#859
+Tie",Northumbria University,United Kingdom,,,"22,512",usnews
+"#859
+Tie",University of Arkansas Medical Sciences,United States,4301 W Markham St,uamshealth.com,,usnews
+"#859
+Tie",University of Augsburg,Germany,,,,usnews
+"#859
+Tie",University of Francois Rabelais - Tours,France,,,,usnews
+"#859
+Tie",University of Sassari,Italy,,,,usnews
+"#864
+Tie",Chung Ang University,South Korea,,,"11,381",usnews
+"#864
+Tie",Harbin Engineering University,China,,,,usnews
+"#864
+Tie",Shenzhen University,China,,,"28,214",usnews
+#867,Charles Sturt University,Australia,,,,usnews
+"#868
+Tie",Ferdowsi University Mashhad,Iran,,,"23,211",usnews
+"#868
+Tie",United Arab Emirates University,United Arab Emirates,United Arab Emirates University,www.uaeu.ac.ae,,usnews
+"#868
+Tie",Universidade Federal da Bahia,Brazil,,,,usnews
+"#868
+Tie",University of South Bohemia Ceske Budejovice,Czech Republic,,,,usnews
+#872,University of Messina,Italy,,,,usnews
+"#873
+Tie",Southern Illinois University--Carbondale,United States,"Undergraduate Admissions, 1263 Lincoln Drive",www.siu.edu,,usnews
+"#873
+Tie",Wuhan University of Technology,China,,,"50,876",usnews
+#875,Jean Monnet University,France,,,,usnews
+"#876
+Tie",Gaziantep University,Turkey,,,,usnews
+"#876
+Tie",Lulea University of Technology,Sweden,,,,usnews
+"#876
+Tie",Universidade Federal Fluminense,Brazil,,,,usnews
+"#876
+Tie",Wroclaw University of Technology,Poland,,,,usnews
+"#880
+Tie",CUNY--Hunter College,United States,695 Park Ave,www.hunter.cuny.edu,,usnews
+"#880
+Tie",Gaziosmanpasa University,Turkey,,,,usnews
+"#880
+Tie",Universidade Federal de Juiz de Fora,Brazil,,,,usnews
+"#880
+Tie",University of Missouri--St. Louis,United States,1 University Blvd,umsl.edu,,usnews
+"#880
+Tie",University of Tabriz,Iran,,,,usnews
+"#885
+Tie",Hohai University,China,,,,usnews
+"#885
+Tie",Manchester Metropolitan University,United Kingdom,,,,usnews
+"#887
+Tie",Catholic University of Korea,South Korea,,,,usnews
+"#887
+Tie",National Chung Hsing University,Taiwan,,,"15,350",usnews
+"#889
+Tie",Beijing Forestry University,China,,,,usnews
+"#889
+Tie",National Taiwan Normal University,Taiwan,,,"10,718",usnews
+"#891
+Tie",Beijing University of Technology,China,,,,usnews
+"#891
+Tie",Federal University of Pernambuco,Brazil,,,,usnews
+"#891
+Tie",Xidian University,China,,,"32,722",usnews
+"#894
+Tie",Southern Cross University,Australia,,,,usnews
+"#894
+Tie",University of Pavol Jozef Safarik Kosice,Slovakia,,,,usnews
+"#896
+Tie",Ajou University,South Korea,,,,usnews
+"#896
+Tie",Ecole Normale Superieure (ENS) Cachan,France,,,,usnews
+"#896
+Tie",North Dakota State University,United States,1340 Administration Ave,www.ndsu.edu,"12,993",usnews
+"#896
+Tie",Taipei Medical University,Taiwan,,,,usnews
+"#896
+Tie",Tallinn University of Technology,Estonia,,,"10,921",usnews
+"#901
+Tie",Nagasaki University,Japan,,,,usnews
+"#901
+Tie",Universitat Kassel,Germany,,,,usnews
+"#903
+Tie",Chungnam National University,South Korea,,,,usnews
+"#903
+Tie",Technische Universitat Chemnitz,Germany,,,,usnews
+"#905
+Tie",National University of Sciences & Technology - Pakistan,Pakistan,,,,usnews
+"#905
+Tie",University of New Brunswick,Canada,3 Bailey Dr,www.unb.ca,,usnews
+"#907
+Tie",Universidade Federal do Ceara,Brazil,,,,usnews
+"#907
+Tie",University of Texas El Paso,United States,500 W University Ave,www.utep.edu,,usnews
+#909,University Campus Bio-Medico - Rome Italy,Italy,,,,usnews
+"#910
+Tie",Florida Atlantic University,United States,777 Glades Rd,www.fau.edu,,usnews
+"#910
+Tie",Oxford Brookes University,United Kingdom,,,"14,403",usnews
+"#912
+Tie",Marmara University,Turkey,,,,usnews
+"#912
+Tie",Sultan Qaboos University,Oman,P O Box 50 PC 123,www.squ.edu.om,,usnews
+"#914
+Tie",Tokai University,Japan,,,,usnews
+"#914
+Tie",Universitat de Lleida,Spain,,,,usnews
+"#914
+Tie",University of Central Lancashire,United Kingdom,,,"17,449",usnews
+"#917
+Tie",Northeast Normal University - China,China,,,,usnews
+"#917
+Tie",Universidade do Algarve,Portugal,,,,usnews
+"#919
+Tie",China University of Mining,China,,,,usnews
+"#919
+Tie",Shanghai Normal University,China,,,,usnews
+"#919
+Tie",Universite de Tunis-El-Manar,Tunisia,,,"33,302",usnews
+"#922
+Tie",Kasetsart University,Thailand,,,"68,505",usnews
+"#922
+Tie",Universita Ca Foscari Venezia,Italy,,,"19,353",usnews
+"#922
+Tie",University of Hyderabad,India,,,"5,089",usnews
+"#925
+Tie",Rhodes University,South Africa,,,,usnews
+"#925
+Tie",Tokyo University of Agriculture,Japan,,,,usnews
+"#927
+Tie",American University,United States,4400 Massachusetts Ave NW,www.american.edu,"11,534",usnews
+"#927
+Tie",Nanjing University of Technology,China,,,"30,564",usnews
+"#929
+Tie",Universidade Federal de Pelotas,Brazil,,,,usnews
+"#929
+Tie",Universite de Sfax,Tunisia,,,,usnews
+"#931
+Tie",Universidad de Extremadura,Spain,,,,usnews
+"#931
+Tie",University of Greenwich,United Kingdom,,,"16,005",usnews
+"#931
+Tie",University of North Carolina--Greensboro,United States,1400 Spring Garden St,www.uncg.edu,,usnews
+"#934
+Tie",Jiangsu University,China,,,"33,391",usnews
+"#934
+Tie",Southwest Jiaotong University,China,,,,usnews
+"#936
+Tie",Jinan University,China,,,"35,785",usnews
+"#936
+Tie",Universidad Rey Juan Carlos,Spain,,,,usnews
+"#938
+Tie",Indian Institute of Technology (IIT) - Guwahati,India,,,,usnews
+"#938
+Tie",Kagoshima University,Japan,,,,usnews
+"#938
+Tie",Sogang University,South Korea,,,"9,440",usnews
+"#941
+Tie",Chungbuk National University,South Korea,,,,usnews
+"#941
+Tie",ITMO University,Russia,,,"10,582",usnews
+"#943
+Tie",Jordan University of Science & Technology,Jordan,P.O. Box 3030,www.just.edu.jo,,usnews
+"#943
+Tie",Nicolaus Copernicus University,Poland,,,,usnews
+"#943
+Tie",Third Military Medical University,China,,,,usnews
+"#943
+Tie",Uniformed Services University of the Health Sciences,United States,,,,usnews
+"#943
+Tie",University of Oklahoma Health Sciences Center,United States,2501 North Blackwelder Avenue,www.okcu.edu,,usnews
+"#948
+Tie",South China Normal University,China,,,,usnews
+"#948
+Tie",Universidad Austral de Chile,Chile,,,,usnews
+"#950
+Tie",Nara Institute of Science,Japan,,,,usnews
+"#950
+Tie",Teikyo University,Japan,,,,usnews
+"#950
+Tie",University of North Dakota,United States,"Grand Forks, North Dakota 58202",www.und.edu,,usnews
+"#953
+Tie",Kazan Federal University,Russia,,,"25,916",usnews
+"#953
+Tie",University of Silesia,Poland,,,,usnews
+#955,University of Auvergne,France,,,,usnews
+"#956
+Tie",Kaohsiung Medical University,Taiwan,,,"6,894",usnews
+"#956
+Tie",Medical University Warsaw,Poland,,,,usnews
+"#956
+Tie",University of Pecs,Hungary,,,,usnews
+"#956
+Tie",University of Windsor,Canada,401 Sunset Ave,www.uwindsor.ca,,usnews
+"#956
+Tie",Villanova University,United States,800 Lancaster Avenue,www.villanova.edu,,usnews
+"#961
+Tie",Medical University Gdansk,Poland,,,,usnews
+"#961
+Tie",Prince Songkla University,Thailand,,,"42,751",usnews
+"#961
+Tie",University of Namur,Belgium,,,,usnews
+"#964
+Tie",Loma Linda University,United States,"Loma Linda, California 92350",www.llu.edu,,usnews
+"#964
+Tie",Suleyman Demirel University,Turkey,,,,usnews
+"#966
+Tie",Federal University of Vicosa,Brazil,,,"16,752",usnews
+"#966
+Tie",Jawaharlal Nehru University,India,,,"8,432",usnews
+"#966
+Tie",Kuwait University,Kuwait,Jamal Abdul Nasser Street,kuweb.ku.edu.kw,"37,752",usnews
+"#966
+Tie",Universidad de Valladolid,Spain,,,"24,740",usnews
+"#966
+Tie",University of Bradford,United Kingdom,,,,usnews
+"#971
+Tie",Khon Kaen University,Thailand,,,,usnews
+"#971
+Tie",Kochi University,Japan,,,,usnews
+"#973
+Tie",Juntendo University,Japan,,,,usnews
+"#973
+Tie",Shanxi University,China,,,,usnews
+"#973
+Tie",Universidad Miguel Hernandez de Elche,Spain,,,,usnews
+"#973
+Tie",University of Lodz,Poland,,,,usnews
+"#977
+Tie",Al Azhar University,Egypt,"Cairo, 11381",azhar.edu.eg,,usnews
+"#977
+Tie",Ehime University,Japan,,,,usnews
+"#977
+Tie",Nanchang University,China,,,,usnews
+"#980
+Tie",China Medical University,China,,,,usnews
+"#980
+Tie",Tokyo Medical University,Japan,,,,usnews
+"#980
+Tie",University of Gdansk,Poland,,,,usnews
+#983,Kinki University (Kindai University),Japan,,,"30,609",usnews
+#984,University of Limoges,France,,,,usnews
+"#985
+Tie",Central School of Lyon,France,,,,usnews
+"#985
+Tie",Tianjin Medical University,China,,,,usnews
+"#985
+Tie",Tomsk Polytechnic University,Russia,,,"9,858",usnews
+"#985
+Tie",Tuscia University,Italy,,,,usnews
+"#985
+Tie",Zagazig University,Egypt,Sheibet al Nakkariya,english.zu.edu.eg,,usnews
+"#990
+Tie",Athens Medical School,Greece,,,,usnews
+"#990
+Tie",Brock University,Canada,1812 Sir Isaac Brock Way,www.brocku.ca,,usnews
+"#990
+Tie",Metropolitan Autonomous University,Mexico,,,"57,092",usnews
+"#990
+Tie",South China Agricultural University,China,,,,usnews
+"#994
+Tie",Brno University of Technology,Czech Republic,,,"22,278",usnews
+"#994
+Tie",University of Toyama,Japan,,,,usnews
+"#996
+Tie",Linnaeus University,Sweden,,,,usnews
+"#996
+Tie",Nanjing University of Information Science & Technology,China,,,,usnews
+"#996
+Tie",University of Thessaly,Greece,,,,usnews
+"#999
+Tie",Nihon University,Japan,,,,usnews
+"#999
+Tie",Universidad de Jaen,Spain,,,,usnews
+"#999
+Tie",University of Yaounde I,Cameroon,,,,usnews
+"#999
+Tie",Yokohama City University,Japan,,,"4,889",usnews
+"#1003
+Tie",Universidade da Coruna,Spain,,,,usnews
+"#1003
+Tie",Universite Perpignan Via Domitia,France,,,,usnews
+"#1003
+Tie",University of Calcutta,India,,,,usnews
+"#1003
+Tie",University of Massachusetts--Lowell,United States,1 University Ave,www.uml.edu,,usnews
+"#1003
+Tie",Xiangtan University,China,,,"29,835",usnews
+"#1003
+Tie",Zhejiang University of Technology,China,,,,usnews
+#1009,Yamagata University,Japan,,,"8,961",usnews
+"#1010
+Tie",China Pharmaceutical University,China,,,,usnews
+"#1010
+Tie",East Carolina University,United States,E 5th St,www.ecu.edu,,usnews
+"#1010
+Tie",Fordham University,United States,113 W. 60th Street,www.fordham.edu,,usnews
+"#1010
+Tie",University of Pantheon Sorbonne - Paris I,France,,,,usnews
+"#1014
+Tie",National Taiwan Ocean University,Taiwan,,,"8,609",usnews
+"#1014
+Tie",Nottingham Trent University,United Kingdom,,,,usnews
+"#1014
+Tie",Oakland University,United States,2200 N Squirrel Rd,www.oakland.edu,"15,401",usnews
+"#1014
+Tie",Second Military Medical University,China,,,,usnews
+"#1014
+Tie",University of West England,United Kingdom,,,"21,301",usnews
+"#1019
+Tie",Qingdao University,China,,,,usnews
+"#1019
+Tie",University of Electro-Communications - Japan,Japan,,,"4,982",usnews
+"#1019
+Tie",University of Novi Sad,Serbia,,,,usnews
+"#1019
+Tie",University of the Free State,South Africa,,,,usnews
+"#1023
+Tie",Erciyes University,Turkey,,,,usnews
+"#1023
+Tie",University of Ibadan,Nigeria,,,"26,302",usnews
+"#1025
+Tie",Pukyong National University,South Korea,,,,usnews
+"#1025
+Tie",The Catholic University of America,United States,620 Michigan Ave NE,www.cua.edu,,usnews
+"#1025
+Tie",Universidad Pablo de Olavide,Spain,,,,usnews
+#1028,Dokuz Eylul University,Turkey,,,,usnews
+"#1029
+Tie",Gachon University,South Korea,,,,usnews
+"#1029
+Tie",Taras Shevchenko National University Kiev,Ukraine,,,"22,152",usnews
+"#1029
+Tie",University of London School Oriental,United Kingdom,,,,usnews
+"#1032
+Tie",Anna University Chennai,India,,,,usnews
+"#1032
+Tie",Universidad Publica de Navarra,Spain,,,,usnews
+"#1034
+Tie",National University of Rosario,Argentina,,,,usnews
+"#1034
+Tie",University of Salford,United Kingdom,,,,usnews
+"#1034
+Tie",University of South Africa,South Africa,,,"190,878",usnews
+"#1037
+Tie",Shanghai Ocean University,China,,,,usnews
+"#1037
+Tie",University of Jordan,Jordan,Aljubeiha,ju.edu.jo,,usnews
+#1039,Lakehead University,Canada,,,,usnews
+"#1040
+Tie",Dongguk University,South Korea,,,,usnews
+"#1040
+Tie",University of Camerino,Italy,,,,usnews
+"#1042
+Tie",Alexandru Ioan Cuza University,Romania,,,,usnews
+"#1042
+Tie",Technical University Freiberg,Germany,,,,usnews
+"#1044
+Tie",Universidad de Las Palmas de Gran Canaria,Spain,,,,usnews
+"#1044
+Tie",Universidade Federal de Goias,Brazil,,,,usnews
+"#1044
+Tie","University of Chemistry & Technology, Prague",Czech Republic,,,,usnews
+"#1044
+Tie",Zhejiang Normal University,China,,,,usnews
+#1048,Tokyo Women's Medical University,Japan,,,,usnews
+#1049,Hofstra University,United States,100 Hofstra University,www.hofstra.edu,"10,001",usnews
+#1050,Tokushima University,Japan,,,,usnews
+"#1051
+Tie",Czech University of Life Sciences Prague,Czech Republic,,,,usnews
+"#1051
+Tie",Medical University Sofia,Bulgaria,,,,usnews
+"#1051
+Tie",Universidad de Santiago de Chile,Chile,,,,usnews
+"#1051
+Tie",University of Punjab,Pakistan,,,,usnews
+"#1055
+Tie",Asia University Taiwan,Taiwan,,,"12,541",usnews
+"#1055
+Tie",Shantou University,China,,,,usnews
+#1057,Gifu University,Japan,,,"7,349",usnews
+#1058,University of Pau & Pays Adour,France,,,,usnews
+"#1059
+Tie",Universidad de Cadiz,Spain,,,,usnews
+"#1059
+Tie",Western Michigan University,United States,1903 W. Michigan Avenue,wmich.edu,"20,201",usnews
+#1061,Poznan University of Technology,Poland,,,,usnews
+"#1062
+Tie",Ataturk University,Turkey,,,,usnews
+"#1062
+Tie",National University of Science,Russia,,,"7,236",usnews
+"#1062
+Tie",University of Reims Champagne-Ardenne,France,,,,usnews
+"#1065
+Tie",G d'Annunzio University of Chieti-Pescara,Italy,,,,usnews
+"#1065
+Tie",Marquette University,United States,PO Box 1881,www.marquette.edu,"10,800",usnews
+"#1065
+Tie",Slovak University of Technology Bratislava,Slovakia,,,,usnews
+"#1068
+Tie",Universidad Autonoma de Nuevo Leon,Mexico,,,,usnews
+"#1068
+Tie",University of Pune,India,,,,usnews
+"#1070
+Tie",Akdeniz University,Turkey,,,,usnews
+"#1070
+Tie",Bowling Green State University,United States,110 Mcfall Center,www.bgsu.edu,,usnews
+"#1070
+Tie",Gdansk University of Technology,Poland,,,,usnews
+"#1070
+Tie",Karadeniz Teknik University,Turkey,,,,usnews
+"#1070
+Tie",Tanta University,Egypt,,,,usnews
+"#1070
+Tie",Trent University,Canada,1600 West Bank Drive,www.trentu.ca,,usnews
+"#1070
+Tie",University of Shanghai for Science,China,,,,usnews
+"#1070
+Tie",Yunnan University,China,,,,usnews
+"#1078
+Tie",Shaanxi Normal University,China,,,,usnews
+"#1078
+Tie",University of Lethbridge,Canada,,,,usnews
+"#1080
+Tie",Saitama University,Japan,,,,usnews
+"#1080
+Tie",Universidade Federal de Santa Maria (UFSM),Brazil,,,,usnews
+"#1082
+Tie",National Chung Cheng University,Taiwan,,,"10,925",usnews
+"#1082
+Tie",National Taipei University of Technology,Taiwan,,,"10,288",usnews
+"#1084
+Tie",Universidad de Huelva,Spain,,,,usnews
+"#1084
+Tie",Universiti Teknologi MARA,Malaysia,,,,usnews
+"#1086
+Tie",Medical University Lodz,Poland,,,,usnews
+"#1086
+Tie",South Dakota State University,United States,Box 2201,www.sdstate.edu,,usnews
+"#1086
+Tie",Universite de Valenciennes et du Hainaut-Cambresis,France,,,,usnews
+"#1086
+Tie",University of Nis,Serbia,,,,usnews
+"#1090
+Tie",Universite de Monastir,Tunisia,,,"23,637",usnews
+"#1090
+Tie",University of Latvia,Latvia,,,,usnews
+"#1092
+Tie",COMSATS Institute of Information Technology (CIIT),Pakistan,,,,usnews
+"#1092
+Tie",Kyoto Prefectural University of Medicine,Japan,,,,usnews
+"#1092
+Tie",University of Agriculture Faisalabad,Pakistan,,,,usnews
+#1095,Carol Davila University of Medicine & Pharmacy,Romania,,,,usnews
+#1096,Universidad Andres Bello,Chile,,,,usnews
+"#1097
+Tie",Harbin Medical University,China,,,,usnews
+"#1097
+Tie",Universidad de Guadalajara,Mexico,,,"220,477",usnews
+"#1097
+Tie",University of Isfahan,Iran,,,"12,473",usnews
+"#1100
+Tie",Hangzhou Normal University,China,,,,usnews
+"#1100
+Tie",Uludag University,Turkey,,,,usnews
+"#1102
+Tie",Illinois State University,United States,Campus Box 2200,illinoisstate.edu,,usnews
+"#1102
+Tie",Lobachevsky State University Nizhni Novgorod,Russia,,,"17,821",usnews
+"#1104
+Tie",Fujita Health University,Japan,,,,usnews
+"#1104
+Tie",Vellore Institute of Technology,India,,,"30,473",usnews
+"#1106
+Tie",Universidad de Almeria,Spain,,,,usnews
+"#1106
+Tie",Yamaguchi University,Japan,,,,usnews
+"#1106
+Tie",Yokohama National University,Japan,,,"10,696",usnews
+"#1109
+Tie",Osaka Prefecture University,Japan,,,"7,893",usnews
+"#1109
+Tie",Wright State University Dayton,United States,,,,usnews
+"#1111
+Tie",Democritus University of Thrace,Greece,,,,usnews
+"#1111
+Tie",Iuliu Hatieganu University of Medicine & Pharmacy,Romania,,,,usnews
+"#1111
+Tie",Nanjing University of Posts & Telecommunications,China,,,,usnews
+"#1114
+Tie",Mie University,Japan,,,,usnews
+"#1114
+Tie",National University of Mar del Plata,Argentina,,,,usnews
+#1116,Nagoya City University,Japan,,,,usnews
+"#1117
+Tie",Northeast Forestry University - China,China,,,,usnews
+"#1117
+Tie",Universidade Federal do Para,Brazil,,,,usnews
+"#1119
+Tie",Chongqing Medical University,China,,,,usnews
+"#1119
+Tie",Nagoya Institute of Technology,Japan,,,,usnews
+"#1119
+Tie",Pontificia Universidad Catolica de Valparaiso,Chile,,,"14,953",usnews
+"#1119
+Tie",Selcuk University,Turkey,,,,usnews
+"#1123
+Tie",Sheffield Hallam University,United Kingdom,,,,usnews
+"#1123
+Tie",University of Madras,India,,,,usnews
+"#1125
+Tie",Kyushu Institute of Technology,Japan,,,"5,793",usnews
+"#1125
+Tie",University of Ryukyus,Japan,,,"8,229",usnews
+"#1125
+Tie",Zhejiang Sci-Tech University,China,,,,usnews
+#1128,Capital Normal University,China,,,,usnews
+#1129,Paracelsus Private Medical University,Austria,,,,usnews
+"#1130
+Tie",Firat University,Turkey,,,,usnews
+"#1130
+Tie",Lodz University of Technology,Poland,,,,usnews
+"#1132
+Tie",Dankook University,South Korea,,,,usnews
+"#1132
+Tie",National Dong Hwa University,Taiwan,,,"10,174",usnews
+"#1132
+Tie",Seoul National University of Science & Technology,South Korea,,,,usnews
+"#1132
+Tie",Universidad de Leon,Spain,,,,usnews
+"#1132
+Tie",University of Alicante,Spain,,,,usnews
+"#1137
+Tie",Anadolu University,Turkey,,,,usnews
+"#1137
+Tie",Kitasato University,Japan,,,,usnews
+"#1137
+Tie",Universidad Nacional de Educacion a Distancia (UNED),Spain,,,,usnews
+"#1140
+Tie",Chung Yuan Christian University,Taiwan,,,"15,769",usnews
+"#1140
+Tie",GH Asachi Technical University,Romania,,,,usnews
+#1142,Texas A&M Health Science Center,United States,,,,usnews
+#1143,Anhui University,China,,,,usnews
+#1144,University of Yamanashi,Japan,,,"4,818",usnews
+#1145,Jichi Medical University,Japan,,,,usnews
+"#1146
+Tie",Inje University,South Korea,,,,usnews
+"#1146
+Tie",Saga University,Japan,,,,usnews
+"#1146
+Tie",Shizuoka University,Japan,,,,usnews
+"#1149
+Tie",National University of the Littoral,Argentina,,,,usnews
+"#1149
+Tie",Qingdao University of Science & Technology,China,,,,usnews
+"#1149
+Tie",Shahid Beheshti University Medical Sciences,Iran,,,,usnews
+"#1152
+Tie",Nippon Medical School,Japan,,,,usnews
+"#1152
+Tie",Universidade Estadual de Londrina,Brazil,,,,usnews
+#1154,Menofia University,Egypt,,,,usnews
+#1155,University of Southern Mississippi,United States,118 College Drive,www.usm.edu,,usnews
+"#1156
+Tie",Hallym University,South Korea,,,"8,688",usnews
+"#1156
+Tie",Ural Federal University,Russia,,,"24,917",usnews
+"#1158
+Tie",Ibaraki University,Japan,,,,usnews
+"#1158
+Tie",Maria Curie-Sklodowska University,Poland,,,,usnews
+"#1158
+Tie",Universite de Carthage,Tunisia,,,,usnews
+"#1158
+Tie",University of Tras-os-Montes & Alto Douro,Portugal,,,,usnews
+"#1162
+Tie",Dong A University,South Korea,,,,usnews
+"#1162
+Tie",Guangxi University,China,,,,usnews
+"#1162
+Tie",Gunma University,Japan,,,,usnews
+"#1162
+Tie",Warsaw University of Life Sciences,Poland,,,,usnews
+#1166,Universidade Federal de Uberlandia,Brazil,,,,usnews
+"#1167
+Tie",Grigore T Popa University of Medicine & Pharmacy,Romania,,,,usnews
+"#1167
+Tie",University of Miyazaki,Japan,,,,usnews
+#1169,Wilfrid Laurier University,Canada,,,,usnews
+"#1170
+Tie",Kurume University,Japan,,,,usnews
+"#1170
+Tie",Universidade Federal da Paraiba,Brazil,,,,usnews
+"#1172
+Tie",Chosun University,South Korea,,,,usnews
+"#1172
+Tie",Sapporo Medical University,Japan,,,,usnews
+"#1172
+Tie",Tamkang University,Taiwan,,,"27,303",usnews
+"#1172
+Tie",Universidade Federal de Lavras,Brazil,,,,usnews
+"#1176
+Tie",Jeju National University,South Korea,,,,usnews
+"#1176
+Tie",Taiyuan University of Technology,China,,,,usnews
+"#1178
+Tie",University of Jinan,China,,,,usnews
+"#1178
+Tie",Yangzhou University,China,,,,usnews
+#1180,Magna Graecia University of Catanzaro,Italy,,,,usnews
+"#1181
+Tie",Annamalai University,India,,,,usnews
+"#1181
+Tie",Hangzhou Dianzi University,China,,,,usnews
+"#1181
+Tie",Shenyang Pharmaceutical University,China,,,,usnews
+"#1181
+Tie",Southern Medical University - China,China,,,,usnews
+#1185,University of Puerto Rico--Medical Sciences Campus,United States,PO Box 365067,www.md.rcm.upr.edu,,usnews
+"#1186
+Tie",Manipal University,India,,,"24,705",usnews
+"#1186
+Tie",Showa University,Japan,,,,usnews
+"#1188
+Tie",DePaul University,United States,1 E. Jackson Boulevard,www.depaul.edu,,usnews
+"#1188
+Tie",Tianjin Polytechnic University,China,,,,usnews
+"#1190
+Tie",Universidade Estadual de Maringa,Brazil,,,,usnews
+"#1190
+Tie",Yanshan University,China,,,"18,563",usnews
+"#1190
+Tie",Yuan Ze University,Taiwan,,,"8,652",usnews
+"#1193
+Tie",Fu Jen Catholic University,Taiwan,,,"23,153",usnews
+"#1193
+Tie",Fukuoka University,Japan,,,,usnews
+"#1193
+Tie",Soongsil University,South Korea,,,,usnews
+"#1196
+Tie",Jikei University,Japan,,,,usnews
+"#1196
+Tie",Poznan University of Medical Sciences,Poland,,,,usnews
+"#1196
+Tie",Wenzhou Medical University,China,,,,usnews
+"#1199
+Tie",Hirosaki University,Japan,,,,usnews
+"#1199
+Tie",Kookmin University,South Korea,,,,usnews
+"#1201
+Tie",Shandong Agricultural University,China,,,,usnews
+"#1201
+Tie",Toho University,Japan,,,,usnews
+"#1201
+Tie",University of Beira Interior,Portugal,,,,usnews
+#1204,National University of the South,Argentina,,,,usnews
+#1205,Silesian University of Technology,Poland,,,,usnews
+#1206,Anhui Medical University,China,,,,usnews
+"#1207
+Tie",Guangdong University of Technology,China,,,,usnews
+"#1207
+Tie",Henan Normal University,China,,,,usnews
+"#1209
+Tie",Ningbo University,China,,,,usnews
+"#1209
+Tie",University of Karachi,Pakistan,,,,usnews
+"#1209
+Tie",Witten Herdecke University,Germany,,,,usnews
+#1212,Soonchunhyang University,South Korea,,,,usnews
+"#1213
+Tie",Medical University Silesia,Poland,,,,usnews
+"#1213
+Tie",Sichuan Agricultural University,China,,,,usnews
+#1215,Kocaeli University,Turkey,,,,usnews
+#1216,University of Kragujevac,Serbia,,,,usnews
+"#1217
+Tie",Kagawa University,Japan,,,,usnews
+"#1217
+Tie",Kwangwoon University,South Korea,,,,usnews
+"#1217
+Tie",Southern Federal University,Russia,,,,usnews
+#1220,Jiangsu Normal University,China,,,,usnews
+"#1221
+Tie",Dalian Medical University,China,,,,usnews
+"#1221
+Tie",Xinjiang University,China,,,,usnews
+#1223,Tianjin University Science & Technology,China,,,,usnews
+#1224,Shiraz University of Medical Science,Iran,,,,usnews
+"#1225
+Tie",Feng Chia University,Taiwan,,,"21,014",usnews
+"#1225
+Tie",University of Hyogo,Japan,,,,usnews
+"#1227
+Tie",Heilongjiang University,China,,,,usnews
+"#1227
+Tie",Louisiana State University Health Sciences Center New Orleans,United States,,,,usnews
+"#1227
+Tie",Ondokuz Mayis University,Turkey,,,,usnews
+#1230,Thapar University,India,,,,usnews
+"#1231
+Tie",Shanghai University of Traditional Chinese Medicine,China,,,,usnews
+"#1231
+Tie",University of Warmia,Poland,,,,usnews
+"#1233
+Tie",Eskisehir Osmangazi University,Turkey,,,,usnews
+"#1233
+Tie",Pamukkale University,Turkey,,,,usnews
+"#1233
+Tie",Shimane University,Japan,,,,usnews
+"#1233
+Tie",Texas State University San Marcos,United States,,,,usnews
+#1237,University of Fukui,Japan,,,,usnews
+"#1238
+Tie",Hyogo College of Medicine,Japan,,,,usnews
+"#1238
+Tie",Universidade Federal do Espirito Santo,Brazil,,,,usnews
+"#1240
+Tie",Shandong Normal University,China,,,,usnews
+"#1240
+Tie",Wenzhou University,China,,,,usnews
+#1242,Wonkwang University,South Korea,,,,usnews
+#1243,Kunming University of Science and Technology,China,,,,usnews
+#1244,Guizhou University,China,,,,usnews
+#1245,Kaunas University of Technology,Lithuania,,,,usnews
+#1246,Medical University of Lublin,Poland,,,,usnews
+"#1247
+Tie",China Jiliang University,China,,,,usnews
+"#1247
+Tie",Guangzhou Medical University,China,,,,usnews
+"#1249
+Tie",Hubei University,China,,,,usnews
+"#1249
+Tie",Nanjing University of Chinese Medicine,China,,,,usnews

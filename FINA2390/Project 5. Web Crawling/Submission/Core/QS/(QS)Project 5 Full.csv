@@ -1,0 +1,960 @@
+Ranking,University Name,Country,Source,No. of Students,Public/Private University,Focus
+1,Massachusetts Institute of Technology (MIT),United States,QS,"<12,000",Private,Comprehensive
+2,Stanford University,United States,QS,"<30,000",Private,Comprehensive+
+3,Harvard University,United States,QS,"<30,000",Private,Comprehensive+
+4,California Institute of Technology (Caltech),United States,QS,"<5,000",Private,Comprehensive
+5,University of Cambridge,United Kingdom,QS,"<30,000",Public,Comprehensive+
+6,University of Oxford,United Kingdom,QS,"<30,000",Public,Comprehensive+
+7,UCL (University College London),United Kingdom,QS,">30,000",Public,Comprehensive+
+8,Imperial College London,United Kingdom,QS,"<30,000",Public,Comprehensive+
+9,University of Chicago,United States,QS,"<30,000",Private,Comprehensive+
+10,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,QS,"<30,000",Public,Comprehensive
+11,"Nanyang Technological University, Singapore (NTU)",Singapore,QS,"<30,000",Public,Comprehensive+
+12,Ecole Polytechnique F?d?rale de Lausanne (EPFL),Switzerland,QS,"<12,000",Public,Focused
+13,Princeton University,United States,QS,"<12,000",Private,Comprehensive
+14,Cornell University,United States,QS,"<30,000",Private,Comprehensive+
+15,National University of Singapore (NUS),Singapore,QS,">30,000",Public,Comprehensive+
+16,Yale University,United States,QS,"<30,000",Private,Comprehensive+
+17,Johns Hopkins University,United States,QS,"<30,000",Private,Comprehensive+
+18,Columbia University,United States,QS,"<30,000",Private,Comprehensive+
+19,University of Pennsylvania,United States,QS,"<30,000",Private,Comprehensive+
+20,The Australian National University,Australia,QS,"<30,000",Public,Comprehensive+
+21,University of Michigan,United States,QS,">30,000",Public,Comprehensive+
+21,Duke University,United States,QS,"<30,000",Private,Comprehensive+
+23,The University of Edinburgh,United Kingdom,QS,"<30,000",Public,Comprehensive+
+23,King's College London,United Kingdom,QS,"<30,000",Public,Comprehensive+
+25,Tsinghua University,China,QS,">30,000",Public,Comprehensive+
+26,The University of Hong Kong,Hong Kong,QS,"<30,000",Public,Comprehensive+
+27,"University of California, Berkeley (UCB)",United States,QS,">30,000",Public,Comprehensive+
+28,The University of Tokyo,Japan,QS,"<30,000",Public,Comprehensive+
+28,Northwestern University,United States,QS,"<30,000",Private,Comprehensive+
+30,The Hong Kong University of Science and Technology,Hong Kong,QS,"<12,000",Public,Comprehensive
+31,University of Toronto,Canada,QS,">30,000",Public,Comprehensive+
+32,McGill University,Canada,QS,"<30,000",Public,Comprehensive+
+33,"University of California, Los Angeles (UCLA)",United States,QS,">30,000",Public,Comprehensive+
+34,The University of Manchester,United Kingdom,QS,">30,000",Public,Comprehensive+
+35,London School of Economics and Political Science (LSE),United Kingdom,QS,"<12,000",Public,Specialist
+36,Kyoto University,Japan,QS,"<30,000",Public,Comprehensive+
+36,Seoul National University,South Korea,QS,"<30,000",Public,Comprehensive+
+38,"University of California, San Diego (UCSD)",United States,QS,">30,000",Public,Comprehensive+
+38,Peking University,China,QS,">30,000",Public,Comprehensive+
+40,Fudan University,China,QS,"<30,000",Public,Comprehensive+
+41,KAIST - Korea Advanced Institute of Science & Technology,South Korea,QS,"<12,000",Public,Comprehensive
+41,The University of Melbourne,Australia,QS,">30,000",Public,Comprehensive+
+43,"Ecole normale sup?rieure, Paris",France,QS,"<5,000",Private,Specialist
+44,University of Bristol,United Kingdom,QS,"<30,000",Public,Comprehensive+
+45,The University of New South Wales (UNSW Sydney),Australia,QS,">30,000",Public,Comprehensive+
+46,The Chinese University of Hong Kong (CUHK),Hong Kong,QS,"<30,000",Public,Comprehensive+
+47,Carnegie Mellon University,United States,QS,"<30,000",Private,Comprehensive+
+47,The University of Queensland,Australia,QS,">30,000",Public,Comprehensive+
+49,City University of Hong Kong,Hong Kong,QS,"<12,000",Public,Comprehensive
+50,The University of Sydney,Australia,QS,">30,000",Public,Comprehensive+
+51,University of British Columbia,Canada,QS,">30,000",Public,Comprehensive+
+52,New York University (NYU),United States,QS,">30,000",Private,Comprehensive+
+53,Brown University,United States,QS,"<12,000",Private,Comprehensive+
+54,Delft University of Technology,Netherlands,QS,"<30,000",Public,Comprehensive
+55,University of Wisconsin-Madison,United States,QS,">30,000",Public,Comprehensive+
+56,Tokyo Institute of Technology,Japan,QS,"<12,000",Public,Comprehensive
+57,The University of Warwick,United Kingdom,QS,"<30,000",Public,Comprehensive+
+58,University of Amsterdam,Netherlands,QS,"<30,000",Public,Comprehensive+
+59,Ecole Polytechnique,France,QS,"<5,000",Public,Comprehensive
+60,Monash University,Australia,QS,">30,000",Public,Comprehensive+
+61,University of Washington,United States,QS,">30,000",Public,Comprehensive+
+62,Shanghai Jiao Tong University,China,QS,">30,000",Public,Comprehensive+
+63,Osaka University,Japan,QS,"<30,000",Public,Comprehensive+
+64,Technical University of Munich,Germany,QS,">30,000",Public,Comprehensive
+65,University of Glasgow,United Kingdom,QS,"<30,000",Public,Comprehensive+
+66,Ludwig-Maximilians-Universit?t M?nchen,Germany,QS,">30,000",Public,Comprehensive+
+67,University of Texas at Austin,United States,QS,">30,000",Public,Comprehensive+
+68,Ruprecht-Karls-Universit?t Heidelberg,Germany,QS,"<30,000",Public,Comprehensive+
+69,University of Illinois at Urbana-Champaign,United States,QS,">30,000",Public,Comprehensive+
+70,Georgia Institute of Technology,United States,QS,"<30,000",Public,Comprehensive
+71,KU Leuven,Belgium,QS,">30,000",Public,Comprehensive+
+71,Pohang University of Science And Technology (POSTECH),South Korea,QS,"<5,000",Private,Focused
+73,University of Zurich,Switzerland,QS,"<30,000",Public,Comprehensive+
+73,University of Copenhagen,Denmark,QS,">30,000",Public,Comprehensive+
+75,Universidad de Buenos Aires (UBA),Argentina,QS,">30,000",Public,Comprehensive+
+76,National Taiwan University (NTU),Taiwan,QS,">30,000",Public,Comprehensive+
+76,Tohoku University,Japan,QS,"<30,000",Public,Comprehensive+
+78,Lund University,Sweden,QS,"<30,000",Public,Comprehensive+
+78,Durham University,United Kingdom,QS,"<30,000",Public,Comprehensive+
+80,"University of North Carolina, Chapel Hill",United States,QS,"<30,000",Public,Comprehensive+
+81,Boston University,United States,QS,"<30,000",Private,Comprehensive+
+82,The University of Auckland,New Zealand,QS,"<30,000",Public,Comprehensive+
+82,The University of Sheffield,United Kingdom,QS,"<30,000",Public,Comprehensive+
+84,The University of Nottingham,United Kingdom,QS,"<30,000",Public,Comprehensive+
+84,University of Birmingham,United Kingdom,QS,"<30,000",Public,Comprehensive+
+86,The Ohio State University,United States,QS,">30,000",Public,Comprehensive+
+87,Zhejiang University,China,QS,">30,000",Public,Comprehensive+
+88,"Trinity College Dublin, The University of Dublin",Ireland,QS,"<30,000",Public,Comprehensive+
+89,Rice University,United States,QS,"<12,000",Private,Comprehensive+
+90,University of Alberta,Canada,QS,,,
+90,Korea University,South Korea,QS,"<30,000",Private,Comprehensive+
+92,University of St Andrews,United Kingdom,QS,"<12,000",Public,Comprehensive+
+93,Pennsylvania State University,United States,QS,">30,000",Public,Comprehensive+
+93,The University of Western Australia,Australia,QS,"<30,000",Public,Comprehensive+
+95,The Hong Kong Polytechnic University,Hong Kong,QS,"<30,000",Public,Comprehensive
+95,Lomonosov Moscow State University,Russia,QS,">30,000",Public,Focused
+97,University of Science and Technology of China,China,QS,"<30,000",Public,Comprehensive
+98,KTH Royal Institute of Technology,Sweden,QS,"<30,000",Public,Comprehensive
+98,University of Geneva,Switzerland,QS,"<30,000",Public,Comprehensive+
+100,Washington University in St. Louis,United States,QS,"<30,000",Private,Comprehensive+
+101,University of Leeds,United Kingdom,QS,"<30,000",Public,Comprehensive+
+102,University of Helsinki,Finland,QS,"<30,000",Public,Comprehensive
+102,University of Southampton,United Kingdom,QS,"<30,000",Public,Comprehensive+
+104,Eindhoven University of Technology,Netherlands,QS,"<12,000",Public,Focused
+105,Purdue University,United States,QS,"<30,001",Public,Comprehensive+
+106,Yonsei University,South Korea,QS,"<30,000",Private,Comprehensive+
+107,"KIT, Karlsruhe Institute of Technology",Germany,QS,"<30,000",Private,Comprehensive+
+108,Sungkyunkwan University (SKKU),South Korea,QS,"<30,000",Private,Comprehensive+
+109,Utrecht University,Netherlands,QS,">30,000",Public,Comprehensive+
+109,Leiden University,Netherlands,QS,"<30,000",Public,Comprehensive+
+109,The University of Adelaide,Australia,QS,"<30,000",Public,Comprehensive+
+112,Uppsala University,Sweden,QS,"<30,000",Public,Comprehensive+
+113,University of Groningen,Netherlands,QS,"<30,000",Public,Comprehensive+
+114,Nanjing University,China,QS,"<30,000",Public,Comprehensive+
+114,Universiti Malaya (UM),Malaysia,QS,"<30,000",Public,Comprehensive+
+116,Nagoya University,Japan,QS,"<30,000",Public,Comprehensive+
+116,Technical University of Denmark,Denmark,QS,"<12,000",Public,Focused
+118,"University of California, Davis",United States,QS,">30,000",Public,Comprehensive+
+119,Aarhus University,Denmark,QS,"<30,000",Public,Comprehensive+
+120,Humboldt-Universit?t zu Berlin,Germany,QS,">30,000",Public,Comprehensive+
+121,Universidade de S?o Paulo,Brazil,QS,">30,000",Public,Comprehensive+
+122,Universidad Nacional Aut?noma de M?xico (UNAM),Mexico,QS,">30,000",Public,Comprehensive+
+122,Hokkaido University,Japan,QS,"<30,000",Public,Comprehensive+
+124,Wageningen University,Netherlands,QS,"<30,000",Public,Focused
+125,Ghent University,Belgium,QS,">30,000",Public,Comprehensive+
+125,Freie Universitaet Berlin,Germany,QS,">30,000",Public,Comprehensive+
+127,Queen Mary University of London,United Kingdom,QS,"<30,000",Public,Comprehensive+
+128,Kyushu University,Japan,QS,"<30,000",Public,Comprehensive+
+129,"University of Maryland, College Park",United States,QS,">30,000",Public,Comprehensive+
+130,Universit? de Montr?al,Canada,QS,">30,000",Public,Comprehensive+
+131,Universit? Pierre et Marie Curie (UPMC),France,QS,"<30,000",Public,Comprehensive
+132,University of Southern California,United States,QS,">30,000",Private,Comprehensive+
+133,Chalmers University of Technology,Sweden,QS,"<12,000",Private,Comprehensive
+134,"University of California, Santa Barbara (UCSB)",United States,QS,"<30,000",Public,Comprehensive
+135,Lancaster University,United Kingdom,QS,"<30,000",Public,Comprehensive+
+135,University of York,United Kingdom,QS,"<30,000",Public,Comprehensive+
+137,Aalto University,Finland,QS,"<30,000",Public,Focused
+137,Cardiff University,United Kingdom,QS,"<30,000",Public,Comprehensive+
+137,Pontificia Universidad Cat?lica de Chile (UC),Chile,QS,"<30,000",Public,Comprehensive+
+140,McMaster University,Canada,QS,"<30,000",Public,Comprehensive+
+141,RWTH Aachen University,Germany,QS,">30,000",Public,Comprehensive+
+142,University of Oslo,Norway,QS,"<30,000",Public,Comprehensive+
+142,University of Pittsburgh,United States,QS,"<30,001",Public,Comprehensive
+144,Technische Universit?t Berlin (TU Berlin),Germany,QS,"<30,000",Public,Comprehensive
+145,The Hebrew University of Jerusalem,Israel,QS,"<30,000",Public,Comprehensive+
+146,University of Lausanne,Switzerland,QS,"<30,000",Public,Comprehensive
+147,Emory University,United States,QS,"<30,000",Private,Comprehensive+
+147,Erasmus University Rotterdam,Netherlands,QS,"<30,000",Public,Focused
+149,University of Basel,Switzerland,QS,"<30,000",Public,Focused
+149,Michigan State University,United States,QS,"<30,001",Public,Focused
+151,University of Otago,New Zealand,QS,"<30,000",Public,Comprehensive+
+152,University of Waterloo,Canada,QS,">30,000",Public,Comprehensive
+153,Universit? catholique de Louvain (UCL),Belgium,QS,"<30,000",Private,Comprehensive+
+154,University of Vienna,Austria,QS,"<30,000",Private,Comprehensive+
+155,Hanyang University,South Korea,QS,"<30,000",Private,Comprehensive+
+156,Universitat de Barcelona,Spain,QS,">30,000",Public,Comprehensive+
+157,?cole Normale Sup?rieure de Lyon,France,QS,">30,000",Public,Comprehensive+
+158,The University of Exeter,United Kingdom,QS,"<30,000",Public,Comprehensive+
+158,University of Aberdeen,United Kingdom,QS,"<30,000",Public,Comprehensive+
+160,University of Bath,United Kingdom,QS,"<30,000",Public,Comprehensive
+161,Newcastle University,United Kingdom,QS,"<30,000",Public,Comprehensive+
+161,National Tsing Hua University,Taiwan,QS,"<30,000",Public,Comprehensive
+163,University of Minnesota,United States,QS,">30,000",Public,Comprehensive+
+164,Eberhard Karls Universit?t T?bingen,Germany,QS,"<30,000",Public,Comprehensive+
+164,University of Bergen,Norway,QS,"<30,000",Public,Comprehensive+
+164,"University of California, Irvine",United States,QS,">30,000",Public,Comprehensive+
+167,University of Bern,Switzerland,QS,">30,000",Public,Comprehensive+
+168,University College Dublin,Ireland,QS,"<30,000",Public,Comprehensive+
+169,Dartmouth College,United States,QS,"<12,000",Private,Comprehensive+
+170,Politecnico di Milano,Italy,QS,">30,000",Public,Focused
+171,Albert-Ludwigs-Universitaet Freiburg,Germany,QS,"<30,000",Public,Comprehensive+
+172,Indian Institute of Technology Delhi (IITD),India,QS,"<12,000",Public,Comprehensive
+173,University of Liverpool,United Kingdom,QS,"<30,000",Public,Comprehensive+
+173,University of Virginia,United States,QS,"<30,000",Public,Comprehensive+
+173,King Fahd University of Petroleum & Minerals,Saudi Arabia,QS,"<12,000",Public,Comprehensive
+176,University of Technology Sydney,Australia,QS,"<30,000",Public,Comprehensive
+177,CentraleSup?lec,France,QS,"<5,000",Public,Focused
+178,University of Florida,United States,QS,">30,000",Private,Comprehensive+
+179,Indian Institute of Technology Bombay (IITB),India,QS,"> 12,000 students",Private,Comprehensive
+179,University of Twente,Netherlands,QS,"<12,000",Public,Focused
+181,University of G?ttingen,Germany,QS,">30,000",Public,Comprehensive+
+182,University of Colorado Boulder,United States,QS,">30,000",Public,Comprehensive
+182,Vienna University of Technology,Austria,QS,"<30,000",Public,Focused
+182,Vrije Universiteit Brussel (VUB),Belgium,QS,"<12,000",Public,Comprehensive+
+182,Universidade Estadual de Campinas (Unicamp),Brazil,QS,"<30,000",Public,Comprehensive+
+186,University of Rochester,United States,QS,,,
+187,Universidad Aut?noma de Madrid,Spain,QS,"> 12,000 students",,
+188,University of Reading,United Kingdom,QS,"<30,000",Public,Comprehensive
+188,Alma Mater Studiorum - University of Bologna,Italy,QS,">30,000",Public,Comprehensive+
+190,Indian Institute of Science (IISc) Bangalore,India,QS,"<5,000",Public,Specialist
+191,University of Cape Town,South Africa,QS,"<30,000",Public,Comprehensive+
+192,Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento,Italy,QS,"<30,000",Public,Comprehensive+
+192,Keio University,Japan,QS,">30,000",Private,Comprehensive+
+192,Scuola Normale Superiore di Pisa,Italy,QS,"<5,000",Focused,Comprehensive
+195,Texas A&M University,United States,QS,"<5,001",Focused,Comprehensive
+195,Stockholm University,Sweden,QS,"<30,000",Public,Comprehensive
+195,Universitat Aut?noma de Barcelona,Spain,QS,">30,000",Public,Comprehensive+
+199,Instituto Tecnol?gico y de Estudios Superiores de Monterrey,Mexico,QS,">30,000",Public,Comprehensive+
+200,Maastricht University,Netherlands,QS,">30,000",Public,Comprehensive+
+201,Universidad de Chile,Chile,QS,">30,000",Public,Comprehensive+
+202,Queen's University Belfast,United Kingdom,QS,"<30,000",Public,Comprehensive+
+203,Waseda University,Japan,QS,">30,000",Private,Comprehensive
+204,Radboud University,Netherlands,QS,"<30,000",Public,Comprehensive+
+205,Universite libre de Bruxelles,Belgium,QS,"<30,000",Public,Comprehensive+
+205,Tel Aviv University,Israel,QS,"<30,000",Public,Comprehensive+
+207,"University of Illinois, Chicago (UIC)",United States,QS,"<30,000",Public,Comprehensive+
+207,National Chiao Tung University,Taiwan,QS,"<12,000",Public,Comprehensive
+209,Arizona State University,United States,QS,"<12,001",Public,Comprehensive
+210,The University of Western Ontario,Canada,QS,"<30,000",Public,Comprehensive+
+210,University of Antwerp,Belgium,QS,"<30,000",Public,Comprehensive+
+212,Vanderbilt University,United States,QS,"<30,001",Public,Comprehensive+
+213,Case Western Reserve University,United States,QS,"<12,000",Private,Comprehensive+
+214,University of Canterbury,New Zealand,QS,"<12,000",Public,Comprehensive
+215,Sapienza University of Rome,Italy,QS,">30,000",Public,Comprehensive+
+216,University of Notre Dame,United States,QS,"<30,000",Private,Comprehensive
+217,University of Calgary,Canada,QS,">30,000",Public,Comprehensive+
+218,Vrije Universiteit Amsterdam,Netherlands,QS,"<30,000",Public,Comprehensive+
+219,Victoria University of Wellington,New Zealand,QS,"<30,000",Public,Comprehensive
+220,Sciences Po,France,QS,"<12,000",Public,Specialist
+221,King Saud University,Saudi Arabia,QS,"<12,000",Public,Specialist
+222,National Cheng Kung University (NCKU),Taiwan,QS,"<30,000",Public,Comprehensive+
+223,Universit?t Hamburg,Germany,QS,">30,000",Public,Comprehensive+
+224,"The University of Newcastle, Australia (UON)",Australia,QS,"<30,000",Public,Comprehensive+
+224,Queen's University at Kingston,Canada,QS,"<30,000",Public,Comprehensive+
+224,Technion - Israel Institute of Technology,Israel,QS,"<30,000",Public,Comprehensive+
+227,Georgetown University,United States,QS,"<30,000",Private,Comprehensive+
+228,University of Sussex,United Kingdom,QS,"<30,000",Public,Comprehensive+
+229,Universiti Putra Malaysia (UPM),Malaysia,QS,"<30,000",Public,Comprehensive+
+230,Universiti Kebangsaan Malaysia (UKM),Malaysia,QS,"<30,000",Public,Comprehensive+
+230,The University of Arizona,United States,QS,"<30,000",Public,Comprehensive+
+232,University of Wollongong,Australia,QS,"<30,000",Public,Comprehensive+
+233,University Complutense Madrid,Spain,QS,">30,000",Public,Comprehensive+
+234,Loughborough University,United Kingdom,QS,"<30,000",Public,Focused
+235,American University of Beirut (AUB),Lebanon,QS,"<12,000",Private,Comprehensive+
+236,Al-Farabi Kazakh National University,Kazakhstan,QS,"<30,000",Public,Comprehensive
+236,Universit? Grenoble-Alpes,France,QS,">30,000",Public,Comprehensive
+238,University of Leicester,United Kingdom,QS,"<30,000",Public,Comprehensive+
+239,Rheinische Friedrich-Wilhelms-Universit?t Bonn,Germany,QS,">30,000",Public,Comprehensive+
+240,Macquarie University,Australia,QS,"<30,000",Public,Comprehensive+
+240,Saint Petersburg State University,Russia,QS,"<30,000",Public,Comprehensive+
+242,Universit? Paris-Sud,France,QS,"<30,000",Public,Comprehensive
+243,National University of Ireland Galway,Ireland,QS,"<30,000",Public,Comprehensive+
+243,Tufts University,United States,QS,"<12,000",Private,Comprehensive+
+245,Chulalongkorn University,Thailand,QS,"<12,000",Private,Comprehensive+
+245,Simon Fraser University,Canada,QS,"<12,001",Private,Comprehensive+
+247,Queensland University of Technology (QUT),Australia,QS,">30,000",Public,Comprehensive
+247,RMIT University,Australia,QS,">30,000",Public,Comprehensive
+249,University of Massachusetts Amherst,United States,QS,">30,000",Public,Comprehensive
+250,Novosibirsk State University,Russia,QS,"<12,000",Public,Comprehensive
+250,University of Tsukuba,Japan,QS,"<30,000",Public,Comprehensive+
+252,University of Miami,United States,QS,"<30,000",Private,Comprehensive+
+253,Universiti Teknologi Malaysia,Malaysia,QS,"<30,000",Public,Comprehensive
+254,Universit?t Frankfurt am Main,Germany,QS,">30,000",Public,Comprehensive+
+254,Universidad Nacional de Colombia,Colombia,QS,">30,000",Public,Comprehensive+
+256,Kyung Hee University,South Korea,QS,">30,000",Public,Comprehensive+
+256,Universidad de los Andes,Colombia,QS,"<30,000",Private,Comprehensive+
+256,Beijing Normal University,China,QS,"<30,000",Public,Comprehensive
+259,Royal Holloway University of London,United Kingdom,QS,"<12,000",Public,Comprehensive
+259,Universit?t Stuttgart,Germany,QS,"<30,000",Public,Comprehensive
+259,Norwegian University of Science And Technology,Norway,QS,"<30,000",Public,Comprehensive+
+262,Curtin University,Australia,QS,"<30,000",Public,Comprehensive
+263,North Carolina State University,United States,QS,"<30,001",Public,Comprehensive
+264,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,QS,"<12,000",Public,Focused
+264,University of Surrey,United Kingdom,QS,"<30,000",Public,Comprehensive
+264,Universiti Sains Malaysia (USM),Malaysia,QS,"<30,000",Public,Comprehensive+
+264,Indian Institute of Technology Madras (IITM),India,QS,"<12,000",Public,Comprehensive
+267,King Abdulaziz University (KAU),Saudi Arabia,QS,">30,000",Public,Comprehensive+
+267,University of Dundee,United Kingdom,QS,">30,000",Public,Comprehensive+
+269,Universit? Paris 1 Panth?on-Sorbonne,France,QS,">30,000",Public,Focused
+270,Ecole des Ponts ParisTech,France,QS,"<5,000",Public,Focused
+270,University of Navarra,Spain,QS,"<5,000",Public,Focused
+272,Technische Universit?t Darmstadt,Germany,QS,"<30,000",Public,Focused
+274,University of East Anglia (UEA),United Kingdom,QS,"<30,000",Public,Comprehensive+
+275,Universitat Polit?cnica de Catalunya,Spain,QS,"<30,000",Public,Comprehensive+
+276,University of Turku,Finland,QS,"<30,000",Public,Comprehensive+
+277,Universitas Indonesia,Indonesia,QS,">30,000",Public,Comprehensive+
+277,University of Strathclyde,United Kingdom,QS,"<30,000",Public,Comprehensive
+279,Dalhousie University,Canada,QS,"<30,000",Public,Comprehensive+
+279,University of South Australia,Australia,QS,"<30,000",Public,Comprehensive
+281,Technische Universit?t Dresden,Germany,QS,"<30,000",Public,Comprehensive
+281,Universidad Carlos III de Madrid (UC3M),Spain,QS,"<30,000",Public,Focused
+282,Wuhan University,China,QS,">30,000",Public,Comprehensive+
+283,University College Cork,Ireland,QS,"<30,000",Public,Comprehensive+
+283,University of Gothenburg,Sweden,QS,"<30,000",Public,Comprehensive+
+283,Rutgers University - New Brunswick,United States,QS,">30,000",Public,Comprehensive
+286,Universit?t Innsbruck,Austria,QS,"<30,000",Public,Comprehensive+
+287,Link?ping University,Sweden,QS,"<30,000",Public,Comprehensive
+287,Friedrich-Alexander-Universit?t Erlangen-N?rnberg,Germany,QS,">30,000",Public,Comprehensive+
+289,National Taiwan Normal University,Taiwan,QS,"<12,000",Public,Comprehensive
+289,University of Ottawa,Canada,QS,">30,000",Public,Comprehensive+
+291,Bauman Moscow State Technical University,Russia,QS,"<30,000",Public,Comprehensive
+292,University of Waikato,New Zealand,QS,"<12,000",Public,Comprehensive
+293,Indian Institute of Technology Kanpur (IITK),India,QS,"<12,000",Public,Comprehensive
+293,Universit? Paris-Sorbonne (Paris IV),France,QS,"<12,000",Public,Comprehensive
+293,Deakin University,Australia,QS,">30,000",Public,Comprehensive+
+296,SOAS University of London,United Kingdom,QS,"<5,000",Public,Specialist
+296,Universit? di Padova,Italy,QS,">30,000",Public,Comprehensive+
+296,Universitat Pompeu Fabra,Spain,QS,"<12,000",Public,Comprehensive
+299,Ewha Womans University,South Korea,QS,"<30,000",Private,Comprehensive+
+299,Hong Kong Baptist University,Hong Kong,QS,"<12,000",Public,Comprehensive+
+301,"University of California, Santa Cruz",United States,QS,"<30,000",Public,Comprehensive+
+301,University of Porto,Portugal,QS,"<30,000",Public,Comprehensive
+303,Universit? de Strasbourg,France,QS,">30,000",Public,Comprehensive+
+304,Indiana University Bloomington,United States,QS,">30,000",Public,Comprehensive+
+305,University of Lisbon,Portugal,QS,">30,000",Public,Comprehensive+
+305,Universit? Paris Diderot - Paris 7,France,QS,"<30,000",Public,Comprehensive+
+307,Politecnico di Torino,Italy,QS,">30,000",Public,Focused
+308,Indian Institute of Technology Kharagpur (IIT-KGP),India,QS,">30,000",Public,Focused
+308,Westf?lische Wilhelms-Universit?t M?nster,Germany,QS,"> 12,000 students",Private,Comprehensive
+308,"Birkbeck, University of London",United Kingdom,QS,"<12,000",Public,Focused
+311,Universidade Federal do Rio de Janeiro,Brazil,QS,">30,000",Public,Comprehensive+
+312,Heriot-Watt University,United Kingdom,QS,"<12,000",Public,Comprehensive
+313,University of Tasmania,Australia,QS,"<12,000",Public,Comprehensive
+314,Charles University,Czech Republic,QS,">30,000",Public,Comprehensive+
+314,University of Tartu,Estonia,QS,">30,000",Public,Comprehensive+
+316,Massey University,New Zealand,QS,"<30,000",Public,Comprehensive
+316,Tongji University,China,QS,">30,000",Public,Comprehensive+
+318,University at Buffalo SUNY,United States,QS,"<30,000",Public,Comprehensive+
+319,Universit? de Li?ge,Belgium,QS,"<30,000",Public,Comprehensive+
+319,Lincoln University,New Zealand,QS,"<5,000",Public,Comprehensive
+319,Sun Yat-sen University,China,QS,">30,000",Public,Comprehensive+
+322,Hiroshima University,Japan,QS,"> 12,000 students",Private,Comprehensive
+323,Tomsk State University,Russia,QS,"<12,000",Public,Comprehensive
+323,"University of California, Riverside",United States,QS,"<30,000",Public,Comprehensive+
+325,The Katz School at Yeshiva University,United States,QS,"<12,000",Private,Comprehensive+
+325,Harbin Institute of Technology,China,QS,"<30,000",Public,Focused
+325,University of Milan,Italy,QS,"<30,000",Public,Focused
+325,Griffith University,Australia,QS,">30,000",Public,Comprehensive+
+329,National Yang Ming University,Taiwan,QS,">30,000",Public,Comprehensive+
+330,Ecole Normale Sup?rieure de Cachan,France,QS,">30,000",Public,Comprehensive+
+331,University of Cologne,Germany,QS,">30,000",Public,Comprehensive+
+331,Bandung Institute of Technology (ITB),Indonesia,QS,"<30,000",Public,Comprehensive
+331,Universidad Austral,Argentina,QS,"<5,000",Private,Comprehensive
+334,Mahidol University,Thailand,QS,"<30,000",Public,Comprehensive+
+334,Belarusian State University,Belarus,QS,"<30,000",Public,Focused
+336,L.N. Gumilyov Eurasian National University (ENU),Kazakhstan,QS,"<30,000",Public,Focused
+337,Universidad de Belgrano,Argentina,QS,"<30,000",Public,Focused
+338,Umea University,Sweden,QS,"<30,000",Public,Focused
+339,Gwangju Institute of Science and Technology (GIST),South Korea,QS,"<30,000",Public,Focused
+339,Boston College,United States,QS,"<30,001",Public,Focused
+341,University of Hawai'i at Ma?oa,United States,QS,"<30,000",Public,Comprehensive+
+341,Universit?t Jena,Germany,QS,"<30,000",Public,Comprehensive+
+343,"City, University of London",United Kingdom,QS,"<30,000",Public,Comprehensive
+344,Xi?an Jiaotong University,China,QS,">30,000",Public,Comprehensive+
+344,Nankai University,China,QS,"<30,000",Public,Comprehensive+
+346,Northeastern University,United States,QS,"<30,000",Private,Comprehensive
+346,University of Victoria,Canada,QS,"<30,000",Public,Comprehensive
+346,Brunel University London,United Kingdom,QS,"<12,000",Public,Comprehensive
+347,University of Essex,United Kingdom,QS,"<30,000",Public,Comprehensive
+349,Universiti Brunei Darussalam (UBD),Brunei,QS,"<30,000",Public,Comprehensive
+349,Qatar University,Qatar,QS,"<12,000",Public,Comprehensive+
+351,Kobe University,Japan,QS,"<30,000",Public,Comprehensive+
+352,Ben Gurion University of The Negev,Israel,QS,"<30,000",Public,Comprehensive+
+352,George Washington University,United States,QS,"<30,000",Private,Comprehensive+
+355,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia,QS,"<12,000",Public,Focused
+355,"Universit? Paris-Dauphine, PSL Research University",France,QS,"<12,000",Public,Specialist
+357,Tilburg University,Netherlands,QS,"<12,000",Public,Focused
+357,University Ulm,Germany,QS,"<12,000",Public,Comprehensive
+357,University of Jyv?skyl?,Finland,QS,"<12,000",Public,Comprehensive
+360,La Trobe University,Australia,QS,"<30,000",Public,Comprehensive
+361,Stellenbosch University,South Africa,QS,"<30,000",Public,Comprehensive+
+361,Universidade Nova de Lisboa,Portugal,QS,"<30,000",Public,Comprehensive+
+361,Oxford Brookes University,United Kingdom,QS,"<30,000",Public,Comprehensive
+364,Pontificia Universidad Cat?lica Argentina,Argentina,QS,"<30,000",Public,Comprehensive
+364,Rensselaer Polytechnic Institute,United States,QS,"<12,000",Private,Comprehensive
+364,University of Witwatersrand,South Africa,QS,"<30,000",Public,Comprehensive+
+367,University of the Philippines,Philippines,QS,">30,000",Public,Comprehensive+
+367,James Cook University,Australia,QS,"<30,000",Public,Comprehensive+
+367,University of Troms? The Arctic University of Norway,Norway,QS,"<30,000",Public,Comprehensive+
+367,Tokyo Medical and Dental University (TMDU),Japan,QS,"<5,000",Public,Focused
+367,Virginia Polytechnic Institute and State University,United States,QS,">30,000",Public,Comprehensive+
+372,University of St.Gallen (HSG),Switzerland,QS,">30,000",Public,Comprehensive+
+373,Moscow State Institute of International Relations (MGIMO University),Russia,QS,"<12,000",Public,Specialist
+373,University of Kent,United Kingdom,QS,"<12,000",Public,Specialist
+373,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,QS,"<12,000",Public,Focused
+373,Aston University,United Kingdom,QS,"<12,000",Public,Comprehensive
+373,Universitat Polit?cnica de Val?ncia,Spain,QS,"<30,000",Public,Comprehensive
+378,Laval University,Canada,QS,"<30,000",Public,Comprehensive+
+379,Aalborg University,Denmark,QS,"<30,000",Public,Comprehensive+
+380,Tampere University of Technology,Finland,QS,"<12,000",Public,Comprehensive
+381,Universit? de Montpellier,France,QS,">30,000",Public,Comprehensive
+382,National Research University Higher School of Economics (HSE University),Russia,QS,"<30,000",Public,Focused
+382,"Stony Brook University, State University of New York",United States,QS,"<30,000",Public,Comprehensive+
+384,University of Southern Denmark,Denmark,QS,"<30,000",Public,Focused
+385,Universit?t Konstanz,Germany,QS,"<12,000",Public,Comprehensive
+386,University of Kansas,United States,QS,"<30,000",Public,Comprehensive+
+386,National Research Tomsk Polytechnic University,Russia,QS,"<12,000",Public,Focused
+388,Universit?t Mannheim,Germany,QS,"<12,000",Public,Focused
+388,National Sun Yat-sen University,Taiwan,QS,"<12,000",Public,Comprehensive
+390,United Arab Emirates University,United Arab Emirates,QS,"<12,000",Public,Comprehensive+
+391,Dublin City University,Ireland,QS,"<30,000",Public,Comprehensive
+391,National Central University,Taiwan,QS,"<12,000",Public,Comprehensive
+391,University of Utah,United States,QS,"<30,000",Public,Comprehensive+
+394,"University of Colorado, Denver",United States,QS,"<30,001",Private,
+395,Illinois Institute of Technology,United States,QS,"<12,000",Private,Comprehensive
+395,The American University in Cairo,Egypt,QS,"<12,000",,
+397,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,QS,"<30,000",Private,Comprehensive
+398,Johannes Gutenberg Universit?t Mainz,Germany,QS,">30,000",Public,Comprehensive+
+398,Taipei Medical University,Taiwan,QS,"<12,000",Private,Focused
+398,"Goldsmiths, University of London",United Kingdom,QS,"<12,000",Public,Focused
+401-410,Leibniz Universit?t Hannover,Germany,QS,"<12,001",Public,Focused
+401-410,National Technical University of Athens,Greece,QS,"<30,000",Public,Focused
+401-410,Peter the Great Saint-Petersburg Polytechnic University,Russia,QS,"<30,000",Public,Focused
+401-410,Ruhr-Universit?t Bochum,Germany,QS,">30,000",Public,Comprehensive+
+401-410,Universidad Externado de Colombia,Colombia,QS,"<12,000",Private,Comprehensive
+401-410,Gadjah Mada University,Indonesia,QS,"<30,000",,
+401-410,University of Coimbra,Portugal,QS,"<30,000",Public,Comprehensive+
+401-410,V. N. Karazin Kharkiv National University,Ukraine,QS,"<30,000",,
+401-410,Vilnius University,Lithuania,QS,"<30,000",Public,Comprehensive+
+401-410,Washington State University,United States,QS,"<30,000",Public,Comprehensive+
+411-420,American University of Sharjah,United Arab Emirates,QS,"<12,000",,
+411-420,Arabian Gulf University,Bahrain,QS,"<12,000",,
+411-420,Brandeis University,United States,QS,"<12,000",Private,Comprehensive
+411-420,Kazakh National Research Technical University after K.I.Satpayev,Kazakhstan,QS,"<12,000",,
+411-420,Taras Shevchenko National University of Kyiv,Ukraine,QS,"<30,000",Public,Comprehensive
+411-420,Universidad de Costa Rica,Costa Rica,QS,"<12,000",,
+411-420,Aix-Marseille University,France,QS,">30,000",Public,Comprehensive+
+411-420,University of Oulu,Finland,QS,"<12,000",,
+411-420,University of Warsaw,Poland,QS,">30,000",Public,Comprehensive
+411-420,Wake Forest University,United States,QS,"<12,000",,
+421-430,Bilkent University,Turkey,QS,"<12,000",Private,Comprehensive
+421-430,Hitotsubashi University,Japan,QS,"<12,000",,
+421-430,Shanghai University,China,QS,">30,000",Public,Comprehensive
+421-430,Swinburne University of Technology,Australia,QS,"<30,000",Public,Comprehensive
+421-430,The University of Georgia,United States,QS,">30,000",Public,Comprehensive+
+421-430,University of Pisa,Italy,QS,">30,000",Public,Comprehensive+
+421-430,University of Connecticut,United States,QS,"<30,000",Public,Comprehensive+
+421-430,University of Delaware,United States,QS,"<30,000",Public,Comprehensive
+421-430,University of Iowa,United States,QS,">30,000",Public,Comprehensive+
+421-430,University of Texas Dallas,United States,QS,"<30,000",Public,Comprehensive
+431-440,Bond University,Australia,QS,"<5,000",Private,Comprehensive+
+431-440,Christian-Albrechts-University zu Kiel,Germany,QS,"<30,000",Public,Comprehensive+
+431-440,Concordia University,Canada,QS,">30,000",Public,Comprehensive
+431-440,Florida State University,United States,QS,">30,000",Public,Comprehensive+
+431-440,Indian Institute of Technology Roorkee (IITR),India,QS,"<12,000",Public,Focused
+431-440,Koc University,Turkey,QS,"<12,000",,
+431-440,National University of Sciences And Technology (NUST) Islamabad,Pakistan,QS,"<12,000",Public,Comprehensive
+431-440,Pontificia Universidad Cat?lica del Per?,Peru,QS,"<30,000",Private,Focused
+431-440,Swansea University,United Kingdom,QS,"<30,000",Public,Comprehensive+
+431-440,Universidad de Palermo (UP),Argentina,QS,"<12,000",Private,Focused
+431-440,Xiamen University,China,QS,">30,000",Public,Comprehensive+
+441-450,Auckland University of Technology (AUT),New Zealand,QS,"<30,000",Public,Comprehensive
+441-450,Bangor University,United Kingdom,QS,"<12,000",Public,Comprehensive+
+441-450,Kazan (Volga region) Federal University,Russia,QS,"<30,000",Public,Focused
+441-450,Oregon State University,United States,QS,"<30,000",Public,Comprehensive
+441-450,Singapore Management University,Singapore,QS,"<12,000",Public,Specialist
+441-450,Sogang University,South Korea,QS,"<12,000",Private,Comprehensive
+441-450,University of Trento,Italy,QS,"<30,000",Public,Comprehensive
+441-450,Universit? Paris Descartes,France,QS,,Private,Comprehensive
+441-450,York University,Canada,QS,">30,000",Public,Comprehensive
+451-460,Beijing Institute of Technology,China,QS,"<30,000",Public,Focused
+451-460,Institut National des Sciences Appliqu?es de Lyon (INSA),France,QS,,,Comprehensive
+451-460,Khalifa University,United Arab Emirates,QS,,Private,
+451-460,Sultan Qaboos University,Oman,QS,"<12,000",Public,Comprehensive+
+451-460,Tulane University,United States,QS,,,
+451-460,Universidad de Santiago de Chile (USACH),Chile,QS,"<30,000",Public,Comprehensive+
+451-460,University of Eastern Finland,Finland,QS,,,
+451-460,University of Saskatchewan,Canada,QS,"<30,000",Public,Comprehensive+
+451-460,University of Stirling,United Kingdom,QS,"<30,000",Public,Comprehensive+
+451-460,"The University of Tennessee, Knoxville",United States,QS,"<30,000",Public,Comprehensive+
+461-470,Jagiellonian University,Poland,QS,,,
+461-470,Martin-Luther-Universit?t Halle-Wittenberg,Germany,QS,"<30,000",Public,Comprehensive+
+461-470,Pontificia Universidad Javeriana,Colombia,QS,,,
+461-470,Sabanci University,Turkey,QS,"<5,000",Private,Focused
+461-470,Universidad de Zaragoza,Spain,QS,"<5,000",Private,Focused
+461-470,University of Florence,Italy,QS,"<5,000",Private,Focused
+461-470,"University of Rome ""Tor Vergata""",Italy,QS,">30,000",Public,Comprehensive
+461-470,Universit?t Potsdam,Germany,QS,"<30,000",Focused,
+461-470,University of New Mexico,United States,QS,"<30,000",Public,Comprehensive+
+461-470,Wayne State University,United States,QS,"<30,000",Public,Comprehensive+
+471-480,American University,United States,QS,"<30,000",Private,Comprehensive
+471-480,Dongguk University,South Korea,QS,"<30,000",Private,Comprehensive+
+471-480,Huazhong University of Science and Technology,China,QS,">30,000",Public,Comprehensive+
+471-480,Iowa State University,United States,QS,">30,000",Public,Comprehensive
+471-480,Johannes Kepler University Linz,Austria,QS,"<12,000",Public,Comprehensive
+471-480,Karl-Franzens-Universitaet Graz,Austria,QS,"<30,000",Public,Comprehensive
+471-480,King Khalid University,Saudi Arabia,QS,">30,000",Public,Comprehensive+
+471-480,Middle East Technical University,Turkey,QS,">30,000",Public,Comprehensive+
+471-480,Sharif University of Technology,"Iran, Islamic Republic of",QS,"<12,000",Public,Focused
+471-480,Tianjin University,China,QS,">30,000",Public,Comprehensive
+481-490,Aberystwyth University,United Kingdom,QS,"<12,000",Public,Comprehensive
+481-490,Cairo University,Egypt,QS,,Private,
+481-490,Chang Gung University,Taiwan,QS,"<12,000",Private,Focused
+481-490,Colorado State University,United States,QS,"<30,000",Public,Comprehensive
+481-490,Julius-Maximilians-Universit?t W?rzburg,Germany,QS,,,
+481-490,Renmin (People's) University of China,China,QS,"<30,000",Public,Focused
+481-490,Universit? Cattolica del Sacro Cuore,Italy,QS,,,
+481-490,University of Naples - Federico II,Italy,QS,">30,000",Public,Comprehensive+
+481-490,Universit?t Bremen,Germany,QS,"<30,000",Public,Comprehensive
+481-490,University of Delhi,India,QS,,,
+481-490,"University of Maryland, Baltimore County",United States,QS,"<12,000",Public,Comprehensive+
+491-500,Bogazi?i ?niversitesi,Turkey,QS,"<12,000",Public,Comprehensive
+491-500,Czech Technical University in Prague,Czech Republic,QS,"<30,000",Public,Specialist
+491-500,Jilin University,China,QS,">30,000",Public,Comprehensive+
+491-500,Abai Kazakh National Pedagogical University,Kazakhstan,QS,,Private,
+491-500,Polit?cnica de Madrid,Spain,QS,">30,000",Public,Specialist
+491-500,Pusan National University,South Korea,QS,"<30,000",Public,Comprehensive+
+491-500,UNESP,Brazil,QS,,,
+491-500,Saint Joseph University of Beirut (USJ),Lebanon,QS,"<12,000",Private,Comprehensive+
+491-500,University of Guelph,Canada,QS,"<30,000",Public,Comprehensive
+491-500,Ural Federal University,Russia,QS,,,
+501-550,Amirkabir University of Technology,"Iran, Islamic Republic of",QS,"<30,000",Public,Focused
+501-550,Aristotle University of Thessaloniki,Greece,QS,,,
+501-550,Chiba University,Japan,QS,"<30,000",Public,Comprehensive+
+501-550,Chonbuk National University,South Korea,QS,"<30,000",Public,Comprehensive+
+501-550,City University of New York,United States,QS,">30,000",Public,Comprehensive
+501-550,Clark University,United States,QS,,,
+501-550,Drexel University,United States,QS,"<30,000",Private,Comprehensive+
+501-550,East China Normal University,China,QS,"<30,000",Public,Comprehensive
+501-550,Indian Institute of Technology Guwahati (IITG),India,QS,,,
+501-550,"Kingston University, London",United Kingdom,QS,"<30,000",Public,Comprehensive
+501-550,Lappeenranta University of Technology,Finland,QS,,,
+501-550,Lehigh University,United States,QS,"<12,000",Private,Comprehensive
+501-550,Auezov South Kazakhstan State University (SKSU),Kazakhstan,QS,,,
+501-550,Murdoch University,Australia,QS,"<12,000",Public,Comprehensive
+501-550,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,QS,,Private,
+501-550,The National University of Science and Technology MISIS,Russia,QS,"<12,000",Public,Comprehensive
+501-550,Okayama University,Japan,QS,,,
+501-550,RUDN University,Russia,QS,"<30,000",Public,Comprehensive+
+501-550,Pontif?cia Universidade Cat?lica de S?o Paulo,Brazil,QS,,Private,
+501-550,Pontif?cia Universidade Cat?lica do Rio de Janeiro,Brazil,QS,"<30,000",Private,Comprehensive
+501-550,Southeast University,China,QS,">30,000",Public,Comprehensive+
+501-550,Syracuse University,United States,QS,,,
+501-550,Technische Universit?t Braunschweig,Germany,QS,"<30,000",Public,Comprehensive
+501-550,Graz University of Technology,Austria,QS,"<30,000",Focused,
+501-550,The Catholic University of Korea,South Korea,QS,"<12,000",Private,Comprehensive+
+501-550,University of Granada,Spain,QS,">30,000",Public,Comprehensive+
+501-550,Universidad de Montevideo (UM),Uruguay,QS,,,
+501-550,Universidade Federal de S?o Paulo,Brazil,QS,"<30,000",Public,Comprehensive+
+501-550,Universidade Federal do Rio Grande Do Sul,Brazil,QS,">30,000",Public,Comprehensive+
+501-550,Universit?t des Saarlandes,Germany,QS,,,
+501-550,University of Hohenheim,Germany,QS,"<12,000",,
+501-550,Universit?t Leipzig,Germany,QS,"<30,000",Public,Comprehensive+
+501-550,Universit?t Regensburg,Germany,QS,"<30,000",Public,Comprehensive+
+501-550,Universit? Claude Bernard Lyon 1,France,QS,,,
+501-550,University of Bordeaux,France,QS,">30,000",Public,Focused
+501-550,Universit? de Fribourg,Switzerland,QS,,,
+501-550,Universit? du Qu?bec,Canada,QS,">30,000",Public,Comprehensive+
+501-550,Universit? Paul Sabatier Toulouse III,France,QS,"<30,000",Public,Comprehensive
+501-550,University of Aveiro,Portugal,QS,"<30,000",Specialist,
+501-550,University of Baghdad,Iraq,QS,">30,000",Public,Comprehensive+
+501-550,University of Cincinnati,United States,QS,"<30,000",Public,Comprehensive+
+501-550,University of Limerick,Ireland,QS,,,
+501-550,University of Macau,"Macao S.A.R., China",QS,"<12,000",Public,Focused
+501-550,University of Nebraska-Lincoln,United States,QS,"<30,000",Public,Comprehensive
+501-550,University of Oklahoma,United States,QS,"<30,000",Public,Comprehensive+
+501-550,University of Pretoria,South Africa,QS,,,
+501-550,University of South Florida,United States,QS,">30,000",Public,Comprehensive
+501-550,University of Szeged,Hungary,QS,"<30,000",Public,Comprehensive+
+501-550,Yokohama City University,Japan,QS,"<5,000",Public,Comprehensive
+551-600,Abo Akademi University,Finland,QS,"<5,000",Public,Comprehensive
+551-600,Ateneo de Manila University,Philippines,QS,"<30,000",Private,Comprehensive+
+551-600,Bar-Ilan University,Israel,QS,"<30,000",Private,Comprehensive+
+551-600,Beihang University (former BUAA),China,QS,">30,000",Public,Comprehensive
+551-600,Chiang Mai University,Thailand,QS,">30,000",Public,Comprehensive+
+551-600,College of William & Mary,United States,QS,,,
+551-600,Coventry University,United Kingdom,QS,"<30,000",Public,Comprehensive
+551-600,Dalian University of Technology,China,QS,">30,000",Public,Comprehensive
+551-600,East China University of Science and Technology,China,QS,">30,000",Public,Comprehensive
+551-600,Flinders University,Australia,QS,"<30,000",Public,Comprehensive+
+551-600,Howard University,United States,QS,"<12,000",Private,Comprehensive+
+551-600,Instituto Tecnol?gico de Buenos Aires (ITBA),Argentina,QS,,,
+551-600,Iran University of Science and Technology,"Iran, Islamic Republic of",QS,"<12,000",Public,Focused
+551-600,Justus-Liebig-University Giessen,Germany,QS,,,
+551-600,Kanazawa University,Japan,QS,,,
+551-600,Kumamoto University,Japan,QS,,,
+551-600,"Lingnan University, Hong Kong",Hong Kong,QS,"<5,000",Public,Specialist
+551-600,Masaryk University,Czech Republic,QS,"<5,000",Public,Specialist
+551-600,Michigan Technological University,United States,QS,"<12,000",Public,Comprehensive
+551-600,Nagasaki University,Japan,QS,"<12,000",Public,Comprehensive
+551-600,National Research Saratov State University,Russia,QS,"<12,000",Public,Comprehensive
+551-600,Osaka City University,Japan,QS,"<12,000",Public,Comprehensive+
+551-600,Philipps-Universit?t Marburg,Germany,QS,"<30,000",Public,Comprehensive+
+551-600,Sejong University,South Korea,QS,,,
+551-600,Shandong University,China,QS,">30,000",Public,Comprehensive+
+551-600,Sichuan University,China,QS,,,
+551-600,South China University of Technology,China,QS,">30,000",Public,Comprehensive
+551-600,Southern Federal University,Russia,QS,,,
+551-600,Tokyo University of Agriculture and Technology,Japan,QS,"<12,000",Public,Focused
+551-600,Umm Al-Qura University,Saudi Arabia,QS,">30,000",Public,Comprehensive+
+551-600,Universidad de Alcal?,Spain,QS,">30,000",Public,Comprehensive+
+551-600,Universidad Nacional de La Plata (UNLP),Argentina,QS,">30,000",Public,Comprehensive+
+551-600,Universidade Federal de Minas Gerais,Brazil,QS,">30,000",Public,Comprehensive+
+551-600,Universit? degli Studi di Pavia,Italy,QS,">30,000",Public,Comprehensive+
+551-600,University of Turin,Italy,QS,,,
+551-600,University of Bayreuth,Germany,QS,"<30,000",Public,Comprehensive
+551-600,Universitat de Valencia,Spain,QS,,,
+551-600,"Universit? Lille 1, Sciences et Technologies",France,QS,"<30,000",Public,Focused
+551-600,Universit? Panth?on-Assas (Paris 2),France,QS,,,
+551-600,University of Canberra,Australia,QS,"> 12,000 students",Private,Comprehensive
+551-600,University of Jordan,Jordan,QS,">30,000",Public,Comprehensive+
+551-600,University of Kentucky,United States,QS,,,
+551-600,University of Manitoba,Canada,QS,"<30,000",Public,Comprehensive+
+551-600,University of Mons,Belgium,QS,,,
+551-600,University of Oregon,United States,QS,"<30,000",Public,Comprehensive
+551-600,University of Science and Technology Beijing,China,QS,,,
+551-600,University of Tampere,Finland,QS,"<12,000",Public,Comprehensive
+551-600,University of Ulsan,South Korea,QS,"<30,000",Private,Comprehensive+
+551-600,University of Vermont,United States,QS,"> 12,000 students",,
+551-600,University of Westminster,United Kingdom,QS,"<30,000",Comprehensive,
+551-600,Vilnius Gediminas Technical University,Lithuania,QS,"12,000",Public,Specialist
+551-600,Western Sydney University,Australia,QS,,,
+601-650,American University in Dubai,United Arab Emirates,QS,,,
+601-650,Brno University of Technology,Czech Republic,QS,,,
+601-650,Central Queensland University,Australia,QS,,,
+601-650,Chonnam National University,South Korea,QS,"> 12,000 students",Private,Comprehensive
+601-650,Far Eastern Federal University,Russia,QS,,,
+601-650,Indiana University-Purdue University Indianapolis,United States,QS,"30,000",,
+601-650,Inha University,South Korea,QS,,,
+601-650,Istanbul Technical University,Turkey,QS,,,
+601-650,ITMO University,Russia,QS,,,
+601-650,Jadavpur University,India,QS,,,
+601-650,Jordan University of Science & Technology,Jordan,QS,,,
+601-650,Keele University,United Kingdom,QS,,,
+601-650,Lanzhou University,China,QS,,,
+601-650,Lebanese American University,Lebanon,QS,,,
+601-650,National Chengchi University,Taiwan,QS,,,
+601-650,National Chung Hsing University,Taiwan,QS,,,
+601-650,National Taipei University of Technology,Taiwan,QS,,,
+601-650,The New School,United States,QS,,,
+601-650,Tallinn University of Technology,Estonia,QS,,,
+601-650,TU Dortmund University,Germany,QS,,,
+601-650,Thammasat University,Thailand,QS,,,
+601-650,Universidad Anahuac,Mexico,QS,,,
+601-650,Universidad de Antioquia,Colombia,QS,,,
+601-650,Universidad de la Habana,Cuba,QS,,,
+601-650,University of Salamanca,Spain,QS,,,
+601-650,Universidad de San Andr?s - UdeSA,Argentina,QS,"> 12,000 students",,
+601-650,Universidad de Sevilla,Spain,QS,,,
+601-650,Universidad Iberoamericana IBERO,Mexico,QS,,,
+601-650,Universidade de Santiago de Compostela,Spain,QS,,,
+601-650,Universit?t Duisburg-Essen,Germany,QS,,,
+601-650,Universit? de Sherbrooke,Canada,QS,,,
+601-650,Universit? Nice Sophia Antipolis,France,QS,,,
+601-650,Universiti Teknologi Petronas (Petronas),Malaysia,QS,,,
+601-650,University of Bradford,United Kingdom,QS,,,
+601-650,University of Haifa,Israel,QS,,,
+601-650,University of Houston,United States,QS,,,
+601-650,University of Hull,United Kingdom,QS,,,
+601-650,University of Hyderabad,India,QS,,,
+601-650,University of Johannesburg,South Africa,QS,,,
+601-650,University of Kufa,Iraq,QS,,,
+601-650,University of Massachusetts - Boston,United States,QS,,,
+601-650,"University of Missouri, Columbia",United States,QS,,,
+601-650,University of Portsmouth,United Kingdom,QS,,,
+601-650,University of South Carolina,United States,QS,,,
+601-650,University of Tehran,"Iran, Islamic Republic of",QS,,,
+601-650,Ulster University,United Kingdom,QS,,,
+601-650,University of Zagreb,Croatia,QS,,,
+601-650,Warsaw University of Technology,Poland,QS,,,
+651-700,Ajou University,South Korea,QS,,,
+651-700,Anna University,India,QS,,,
+651-700,Beijing Foreign Studies University,China,QS,,,
+651-700,Carleton University,Canada,QS,,,
+651-700,Charles Darwin University,Australia,QS,"<12,000",Public,Comprehensive
+651-700,Clarkson University,United States,QS,,,
+651-700,Dublin Institute of Technology,Ireland,QS,"<30,000",Public,Comprehensive
+651-700,Karaganda State University named after academician E.A.Buketov,Kazakhstan,QS,,,
+651-700,E?tv?s Lor?nd University,Hungary,QS,"<30,000",Public,Focused
+651-700,Gifu University,Japan,QS,"<12,000",Public,Comprehensive+
+651-700,Hallym University,South Korea,QS,"<12,000",Private,Comprehensive+
+651-700,Instituto Polit?cnico Nacional (IPN),Mexico,QS,">30,000",Public,Comprehensive
+651-700,Instituto Tecnol?gico Aut?nomo de M?xico (ITAM),Mexico,QS,,,
+651-700,Kagoshima University,Japan,QS,"<12,000",Public,Comprehensive+
+651-700,Kazakh-British Technical University,Kazakhstan,QS,,,
+651-700,Konkuk University,South Korea,QS,"<30,000",Private,Comprehensive+
+651-700,Kuwait University,Kuwait,QS,">30,000",Public,Comprehensive+
+651-700,Louisiana State University,United States,QS,"<30,000",Public,Comprehensive
+651-700,Missouri University of Science and Technology,United States,QS,"<12,000",Public,Comprehensive
+651-700,National and Kapodistrian University of Athens,Greece,QS,">30,000",Public,Comprehensive+
+651-700,Quaid-i-Azam University,Pakistan,QS,,,
+651-700,Riga Technical University,Latvia,QS,"<12,000",Public,Comprehensive
+651-700,"Rutgers - The State University of New Jersey, Newark",United States,QS,,,
+651-700,Shanghai International Studies University,China,QS,"<12,000",Public,Specialist
+651-700,Stevens Institute of Technology,United States,QS,"<12,000",Private,Comprehensive
+651-700,Temple University,United States,QS,">30,000",Public,Comprehensive+
+651-700,Tokyo Metropolitan University,Japan,QS,"<12,000",Public,Comprehensive
+651-700,Universidad Adolfo Ib??ez,Chile,QS,"<12,000",Private,Focused
+651-700,Universidad Cat?lica Andres Bello,Venezuela,QS,,,
+651-700,Universidad Central de Venezuela,Venezuela,QS,">30,000",Public,Comprehensive+
+651-700,Universidad de Concepci?n,Chile,QS,"<30,000",Private,Comprehensive+
+651-700,Universidad del Pais Vasco,Spain,QS,,,
+651-700,Universidad Torcuato Di Tella,Argentina,QS,"<5,000",Private,Specialist
+651-700,Universidade Cat?lica Portuguesa - UCP,Portugal,QS,,,
+651-700,Universidade de Bras?lia,Brazil,QS,">30,000",Public,
+651-700,Universidade Federal de S?o Carlos (UFSCAR),Brazil,QS,"<30,000",Public,Comprehensive+
+651-700,Universit?t Bielefeld,Germany,QS,"<30,000",,
+651-700,University Duesseldorf,Germany,QS,"<30,000",Public,Comprehensive+
+651-700,Universit? de Rennes 1,France,QS,,,
+651-700,University at Albany SUNY,United States,QS,"<30,000",Public,Comprehensive
+651-700,University of Alabama,United States,QS,">30,000",Public,Comprehensive
+651-700,University of Crete,Greece,QS,,,
+651-700,University of Debrecen,Hungary,QS,"<30,000",Public,Comprehensive+
+651-700,University of Ljubljana,Slovenia,QS,">30,000",Public,Comprehensive+
+651-700,University of Milano-Bicocca,Italy,QS,">30,000",Public,Comprehensive
+651-700,University of Minho,Portugal,QS,"<30,000",,
+651-700,University of Seoul,South Korea,QS,"<12,000",Public,Comprehensive
+651-700,University of Windsor,Canada,QS,"<30,000",Public,Comprehensive
+651-700,Virginia Commonwealth University,United States,QS,,,
+651-700,Worcester Polytechnic Institute,United States,QS,"<12,000",Private,Comprehensive
+701-750,Ain Shams University,Egypt,QS,">30,000",Public,Comprehensive+
+701-750,Airlangga University,Indonesia,QS,">30,000",Public,Comprehensive+
+701-750,Beijing Jiaotong University,China,QS,"<30,000",Public,Comprehensive
+701-750,Beijing University of Technology,China,QS,"<30,000",Public,Comprehensive
+701-750,Bournemouth University,United Kingdom,QS,,,
+701-750,China Agricultural University,China,QS,"<30,000",Public,Comprehensive+
+701-750,Clemson University,United States,QS,"<30,000",Public,Comprehensive
+701-750,Comenius University in Bratislava,Slovakia,QS,"<30,000",Public,Comprehensive
+701-750,Dankook University,South Korea,QS,,,
+701-750,De La Salle University,Philippines,QS,"<30,000",Private,Comprehensive
+701-750,Hunan University,China,QS,">30,000",Public,
+701-750,International Islamic University Malaysia (IIUM),Malaysia,QS,"<30,000",Public,Comprehensive+
+701-750,Kaunas University of Technology,Lithuania,QS,,,
+701-750,Khazar University,Azerbaijan,QS,"<5,000",Private,Focused
+701-750,Kyungpook National University,South Korea,QS,,,
+701-750,Lahore University of Management Sciences (LUMS),Pakistan,QS,"<5,000",Private,Comprehensive
+701-750,Lobachevsky University,Russia,QS,"<5,000",,
+701-750,London Metropolitan University,United Kingdom,QS,"<12,000",Public,Comprehensive
+701-750,Manipal Academy of Higher Education,India,QS,,,
+701-750,Maynooth University,Ireland,QS,"<12,000",Public,Focused
+701-750,Memorial University of Newfoundland,Canada,QS,"<30,000",Public,Comprehensive+
+701-750,Middlesex University,United Kingdom,QS,"<30,000",Public,Comprehensive
+701-750,"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,QS,,,
+701-750,Niigata University,Japan,QS,"<30,000",Public,Comprehensive+
+701-750,Osaka Prefecture University,Japan,QS,,,
+701-750,Palack? University in Olomouc,Czech Republic,QS,"<30,000",Public,Comprehensive
+701-750,Pontificia Universidad Cat?lica de Valpara?so,Chile,QS,,,
+701-750,Rhodes University,South Africa,QS,"<12,000",Public,
+701-750,Smith College,United States,QS,"<5,000",Private,
+701-750,Sofia University St. Kliment Ohridski,Bulgaria,QS,"<30,000",Public,Comprehensive
+701-750,Sophia University,Japan,QS,"<30,000",Private,Comprehensive
+701-750,Southern Methodist University,United States,QS,,,
+701-750,Texas Tech University,United States,QS,">30,000",,
+701-750,Tokyo University of Science,Japan,QS,"<30,000",Private,Focused
+701-750,Universidad de la Rep?blica (UdelaR),Uruguay,QS,">30,000",Public,Comprehensive+
+701-750,Universidad San Francisco de Quito (USFQ),Ecuador,QS,"<12,000",Private,Comprehensive+
+701-750,Universidad Nacional de C?rdoba - UNC,Argentina,QS,"<12,000",Private,Comprehensive+
+701-750,Ca' Foscari University of Venice,Italy,QS,"<30,000",Public,Focused
+701-750,University of Genoa,Italy,QS,,,
+701-750,University of Modena and Reggio Emilia,Italy,QS,"<30,000",Public,Comprehensive+
+701-750,University of Trieste,Italy,QS,,,
+701-750,Universiti Utara Malaysia (UUM),Malaysia,QS,"<30,000",Public,Specialist
+701-750,University of Brighton,United Kingdom,QS,,,
+701-750,University of Bucharest,Romania,QS,"<30,000",Public,Focused
+701-750,University of Central Florida,United States,QS,">30,000",Public,Comprehensive+
+701-750,University of Denver,United States,QS,"<12,000",Private,Comprehensive
+701-750,University of Dhaka,Bangladesh,QS,,,
+701-750,University of Kwazulu-Natal,South Africa,QS,"<30,000",Public,Comprehensive+
+701-750,University of Latvia,Latvia,QS,,,
+701-750,University of Patras,Greece,QS,"<30,000",Public,Comprehensive+
+701-750,Plymouth University,United Kingdom,QS,"<30,000",Public,Comprehensive+
+701-750,University of Sharjah,United Arab Emirates,QS,,,
+701-750,University of Wyoming,United States,QS,"<12,000",Public,Comprehensive
+701-750,Victoria University,Australia,QS,"<30,000",Public,Comprehensive
+751-800,Abu Dhabi University,United Arab Emirates,QS,"<5,000",Private,Focused
+751-800,Alexandria University,Egypt,QS,">30,000",Public,Comprehensive+
+751-800,Al-Imam Muhammed Ibn Saud Islamic University,Saudi Arabia,QS,,,
+751-800,Alpen-Adria-Universitaet Klagenfurt,Austria,QS,"<12,000",Public,Focused
+751-800,BELARUSSIAN NATIONAL TECHNICAL UNIVERSITY,Belarus,QS,,,
+751-800,Bogor Agricultural University,Indonesia,QS,"<30,000",Public,Comprehensive
+751-800,Brigham Young University,United States,QS,">30,000",Private,Comprehensive
+751-800,Budapest University of Technology and Economics,Hungary,QS,"<30,000",Public,Focused
+751-800,Edith Cowan University,Australia,QS,"<30,000",Public,Comprehensive
+751-800,Florida International University,United States,QS,,,
+751-800,Georgia State University,United States,QS,"<30,000",Public,Comprehensive
+751-800,Gunma University,Japan,QS,,,
+751-800,Hacettepe University,Turkey,QS,">30,000",Public,Comprehensive+
+751-800,Kansas State University,United States,QS,"<30,000",Public,Comprehensive
+751-800,Kasetsart University,Thailand,QS,">30,000",Public,Comprehensive
+751-800,King Faisal University,Saudi Arabia,QS,,,
+751-800,Loyola University Chicago,United States,QS,"<30,000",Private,Comprehensive+
+751-800,Nagoya Institute of Technology (NIT),Japan,QS,,Private,
+751-800,Northumbria University at Newcastle,United Kingdom,QS,"<30,000",Public,Comprehensive
+751-800,Paris Lodron University of Salzburg,Austria,QS,"<30,000",Public,Comprehensive
+751-800,Universidad Aut?noma Metropolitana (UAM),Mexico,QS,">30,000",Public,Comprehensive+
+751-800,Universidad de La Sabana,Colombia,QS,"<12,000",Private,Comprehensive+
+751-800,Universidad Diego Portales (UDP),Chile,QS,"<30,000",Private,Comprehensive+
+751-800,Universidad Sim?n Bol?var (USB),Venezuela,QS,"<12,000",Public,Focused
+751-800,Universidade Federal de Santa Catarina,Brazil,QS,">30,000",Public,Comprehensive+
+751-800,Universita' degli Studi di Ferrara,Italy,QS,"<30,000",Public,Comprehensive+
+751-800,Universit? degli Studi di Perugia,Italy,QS,"<30,000",Public,Comprehensive+
+751-800,Universit? degli studi Roma Tre,Italy,QS,">30,000",Public,Comprehensive
+751-800,University of Lorraine,France,QS,">30,000",Public,Comprehensive
+751-800,Universit? de Nantes,France,QS,">30,000",Public,Comprehensive
+751-800,Universit? Lumi?re Lyon 2,France,QS,"<30,000",Public,Specialist
+751-800,Universit? Toulouse 1 Capitole,France,QS,"<30,000",Public,Focused
+751-800,Universiti Teknologi MARA - UiTM,Malaysia,QS,">30,000",Public,Comprehensive
+751-800,University of Brescia,Italy,QS,"<30,000",Public,Focused
+751-800,University of Calcutta,India,QS,"<30,000",Public,Comprehensive
+751-800,University of Colombo,Sri Lanka,QS,"<30,000",Public,Comprehensive
+751-800,University of Hertfordshire,United Kingdom,QS,"<30,000",Public,Comprehensive
+751-800,University of Huddersfield,United Kingdom,QS,"<30,000",Public,Comprehensive
+751-800,University of New Hampshire,United States,QS,"<30,000",Public,Comprehensive
+751-800,University of P?cs,Hungary,QS,"<30,000",Public,Comprehensive+
+751-800,University of Salford,United Kingdom,QS,,,
+751-800,University of Southern Queensland,Australia,QS,"<30,000",Public,Comprehensive
+751-800,University of Tulsa,United States,QS,,,
+751-800,Yamaguchi University,Japan,QS,"<12,000",Public,Comprehensive+
+751-800,Yeungnam University,South Korea,QS,,,
+751-800,Yokohama National University,Japan,QS,"<12,000",Public,Comprehensive
+801-1000,Adam Mickiewicz University,Poland,QS,"<12,000",Public,Comprehensive
+801-1000,AGH University of Science and Technology,Poland,QS,"<12,000",Public,
+801-1000,Al Azhar University,Egypt,QS,">30,000",Public,Comprehensive
+801-1000,Alexandru Ioan Cuza University,Romania,QS,,,
+801-1000,"Aligarh Muslim University (AMU), Aligarh",India,QS,"<30,000",Public,Comprehensive
+801-1000,Ankara ?niversitesi,Turkey,QS,,,
+801-1000,Aoyama Gakuin University,Japan,QS,"<30,000",Private,Comprehensive
+801-1000,Athens University of Economics and Business,Greece,QS,"<12,000",Public,Focused
+801-1000,Auburn University,United States,QS,"<12,000",Public,Focused
+801-1000,Australian Catholic University,Australia,QS,"<30,000",Public,Comprehensive
+801-1000,Babes-Bolyai University,Romania,QS,,,
+801-1000,Baku State University,Azerbaijan,QS,"<30,000",Public,Focused
+801-1000,Banaras Hindu University,India,QS,"<30,000",Public,Comprehensive+
+801-1000,Baylor University,United States,QS,"<30,000",Private,Comprehensive
+801-1000,Benem?rita Universidad Aut?noma de Puebla,Mexico,QS,"<30,000",Private,Comprehensive
+801-1000,Binghamton University SUNY,United States,QS,"<30,000",Public,Comprehensive
+801-1000,"Birla Institute of Technology and Science, Pilani",India,QS,"<12,000",Private,Comprehensive
+801-1000,Birzeit university,"Palestinian Territory, Occupied",QS,"<12,000",Private,Comprehensive
+801-1000,Central South University,China,QS,">30,000",Public,Comprehensive+
+801-1000,Charles Sturt University,Australia,QS,"<30,000",Public,Comprehensive
+801-1000,Chongqing University,China,QS,,,
+801-1000,Chungnam National University,South Korea,QS,,,
+801-1000,Corvinus University of Budapest,Hungary,QS,,,
+801-1000,Cukurova University,Turkey,QS,">30,000",Public,Comprehensive+
+801-1000,Diponegoro University,Indonesia,QS,,,
+801-1000,Vasyl` Stus Donetsk National University,Ukraine,QS,,,
+801-1000,Doshisha University,Japan,QS,"<30,000",Private,Comprehensive
+801-1000,Edinburgh Napier University,United Kingdom,QS,"<12,000",Public,Comprehensive
+801-1000,Feng Chia University,Taiwan,QS,"<30,000",Private,Focused
+801-1000,Fordham University,United States,QS,,,
+801-1000,Fu Jen Catholic University,Taiwan,QS,"<30,000",Private,Comprehensive+
+801-1000,Gazi ?niversitesi,Turkey,QS,,,
+801-1000,George Mason University,United States,QS,"<30,000",Public,Comprehensive
+801-1000,Istanbul University,Turkey,QS,">30,000",Public,Comprehensive+
+801-1000,Kazakh Ablai Khan University of International Relations and World Languages,Kazakhstan,QS,,,
+801-1000,Kent State University,United States,QS,"<30,000",Public,
+801-1000,Khon Kaen University,Thailand,QS,">30,000",Public,Comprehensive+
+801-1000,King Mongkut's University of Technology Thonburi,Thailand,QS,,Private,
+801-1000,Kyushu Institute of Technology,Japan,QS,"<12,000",Public,Focused
+801-1000,University of Lodz,Poland,QS,,,
+801-1000,London South Bank University,United Kingdom,QS,"<12,000",,
+801-1000,Makerere University,Uganda,QS,">30,000",Public,Comprehensive+
+801-1000,Manchester Metropolitan University,United Kingdom,QS,"<30,000",Public,Comprehensive
+801-1000,Marquette University,United States,QS,"<12,000",Private,Comprehensive
+801-1000,Meiji University,Japan,QS,">30,000",Private,Comprehensive
+801-1000,Miami University,United States,QS,,,
+801-1000,New Jersey Institute of Technology (NJIT),United States,QS,"<12,000",Public,Comprehensive
+801-1000,Nicolaus Copernicus University,Poland,QS,,,
+801-1000,North-West University,South Africa,QS,">30,000",Public,Comprehensive
+801-1000,Nottingham Trent University,United Kingdom,QS,,,
+801-1000,Novosibirsk State Technical University,Russia,QS,"<30,000",Public,Focused
+801-1000,Ochanomizu University,Japan,QS,,,
+801-1000,Ohio University,United States,QS,"<30,000",Public,Comprehensive
+801-1000,Oklahoma State University,United States,QS,"<30,000",Public,Comprehensive
+801-1000,Panjab University,India,QS,,,
+801-1000,Plekhanov Russian University of Economics,Russia,QS,"<30,000",Public,Specialist
+801-1000,Pontificia Universidad Cat?lica del Ecuador (PUCE),Ecuador,QS,,,
+801-1000,Pontif?cia Universidade Cat?lica do Rio Grande do Sul (PUCRS),Brazil,QS,"<30,000",Private,Comprehensive+
+801-1000,Prince of Songkla University,Thailand,QS,,,
+801-1000,Ritsumeikan University,Japan,QS,">30,000",Private,Comprehensive
+801-1000,Ryerson University,Canada,QS,">30,000",Public,Comprehensive
+801-1000,Saitama University,Japan,QS,"<12,000",Public,Comprehensive
+801-1000,Samara National Research University (Samara University),Russia,QS,"<12,000",Public,Focused
+801-1000,San Diego State University,United States,QS,,,
+801-1000,Seoul National University of Science and Technology,South Korea,QS,"<12,000",,
+801-1000,Institute of Technology Sepuluh Nopember,Indonesia,QS,"<30,000",Public,Specialist
+801-1000,Shahid Beheshti University (SBU),"Iran, Islamic Republic of",QS,,,
+801-1000,Shinshu University,Japan,QS,"<12,000",Public,Comprehensive+
+801-1000,Southern Cross University,Australia,QS,,,
+801-1000,Sumy State University,Ukraine,QS,"<12,000",Public,Comprehensive
+801-1000,Robert Gordon University,United Kingdom,QS,"<12,000",Public,Focused
+801-1000,Tokai University,Japan,QS,,,
+801-1000,Universidad Austral de Chile,Chile,QS,"<30,000",Private,Comprehensive+
+801-1000,Universidad Aut?noma de Nuevo Le?n,Mexico,QS,"<30,000",Private,Comprehensive+
+801-1000,Universidad Aut?noma del Estado de M?xico (UAEMex),Mexico,QS,,,
+801-1000,Universidad de Castilla-La Mancha,Spain,QS,,,
+801-1000,Universidad de Guadalajara (UDG),Mexico,QS,">30,000",Public,Comprehensive+
+801-1000,Universidad de las Am?ricas Puebla (UDLAP),Mexico,QS,">30,000",Public,Comprehensive+
+801-1000,Universidad de los Andes - (ULA) M?rida,Venezuela,QS,,,
+801-1000,Universidad de Monterrey (UDEM),Mexico,QS,"<12,000",Private,Comprehensive
+801-1000,University of Murcia,Spain,QS,,,
+801-1000,Universidad de Oviedo,Spain,QS,"<30,000",,
+801-1000,Universidad de Puerto Rico,Puerto Rico,QS,">30,000",Public,Comprehensive+
+801-1000,Universidad de Talca,Chile,QS,,,
+801-1000,Universidad de Valpara?so (UV),Chile,QS,"<30,000",Public,Comprehensive+
+801-1000,Universidad del Norte,Colombia,QS,,,
+801-1000,Universidad del Rosario,Colombia,QS,"<12,000",Private,Comprehensive
+801-1000,Universidad del Valle,Colombia,QS,"<12,000",Private,Comprehensive
+801-1000,Universidad Industrial de Santander - UIS,Colombia,QS,,,
+801-1000,Universidad Metropolitana,Venezuela,QS,"<12,000",Private,Comprehensive
+801-1000,Universidad Nacional Costa Rica,Costa Rica,QS,,,
+801-1000,Universidad Nacional de Cuyo,Argentina,QS,"<30,000",Public,Comprehensive+
+801-1000,Universidad Nacional de Mar del Plata,Argentina,QS,,,
+801-1000,Universidad Nacional de Rosario (UNR),Argentina,QS,">30,000",Public,Comprehensive+
+801-1000,Universidad Nacional de Tucum??n,Argentina,QS,">30,000",Public,Comprehensive+
+801-1000,Universidad Nacional del Sur,Argentina,QS,,,
+801-1000,Universidad Nacional Mayor de San Marcos,Peru,QS,">30,000",Public,Comprehensive+
+801-1000,Universidad Panamericana (UP),Mexico,QS,,Private,Comprehensive
+801-1000,Universidad Peruana Cayetano Heredia (UPCH),Peru,QS,"<12,000",Private,Focused
+801-1000,Universidad Rey Juan Carlos,Spain,QS,,Private,
+801-1000,Universidad T?cnica Federico Santa Mar?a (USM),Chile,QS,">30,000",Public,Comprehensive
+801-1000,Universidad Tecnol?gica Nacional (UTN),Argentina,QS,">30,000",Public,Focused
+801-1000,Universidade da Coru?a,Spain,QS,,,
+801-1000,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,QS,"<30,000",Public,Comprehensive+
+801-1000,Universidade Estadual de Londrina,Brazil,QS,,Private,Comprehensive
+801-1000,Universidade Federal da Bahia,Brazil,QS,">30,000",Public,Comprehensive+
+801-1000,Universidade Federal de Santa Maria,Brazil,QS,,,
+801-1000,Universidade Federal de Vi?osa-UFV,Brazil,QS,"<30,000",Public,Comprehensive+
+801-1000,Universidade Federal do Cear? (UFC),Brazil,QS,,,
+801-1000,Universidade Federal do Paran? - UFPR,Brazil,QS,">30,000",Public,Comprehensive+
+801-1000,Universidade Federal de Pernambuco (UFPE),Brazil,QS,,,
+801-1000,Universidade Federal Fluminense,Brazil,QS,">30,000",Public,Comprehensive+
+801-1000,Catania University,Italy,QS,,Private,
+801-1000,University of Siena,Italy,QS,"<30,000",Public,Comprehensive+
+801-1000,University of Palermo,Italy,QS,,Private,
+801-1000,Universitas Muhammadiyah Surakarta,Indonesia,QS,">30,000",Private,Focused
+801-1000,Universit?t Rostock,Germany,QS,"<30,000",Public,Comprehensive+
+801-1000,Universit? Charles-de-Gaulle Lille 3,France,QS,,,
+801-1000,Universit? de Caen Basse-Normandie,France,QS,"<30,000",Public,Comprehensive+
+801-1000,Universit? de Cergy-Pontoise,France,QS,"<30,000",Public,Comprehensive
+801-1000,Universit? de Poitiers,France,QS,,,
+801-1000,Universit? Jean Moulin Lyon 3,France,QS,"<30,000",Public,Specialist
+801-1000,Universit? Lille 2 Droit et Sant?,France,QS,"<30,000",Public,Specialist
+801-1000,Universit? Mohammed V de Rabat,Morocco,QS,">30,000",Public,Comprehensive
+801-1000,Universit? Paris Ouest Nanterre La D?fense,France,QS,">30,000",Public,Focused
+801-1000,Universit Paul-Valery Montpellier 3,France,QS,"<30,000",Public,Focused
+801-1000,University of Arkansas,United States,QS,"<30,000",Public,Comprehensive
+801-1000,University of Bahrain,Bahrain,QS,"<30,000",Public,Comprehensive
+801-1000,University of Bari,Italy,QS,">30,000",Public,Comprehensive+
+801-1000,University of Belgrade,Serbia,QS,">30,000",Public,Comprehensive+
+801-1000,University of Brawijaya,Indonesia,QS,">30,000",Public,Comprehensive+
+801-1000,University of Central Lancashire,United Kingdom,QS,,,Comprehensive
+801-1000,University of East London,United Kingdom,QS,"<12,000",Public,Comprehensive
+801-1000,University of Engineering & Technology (UET) Lahore,Pakistan,QS,"<30,000",Public,Focused
+801-1000,University of Ghana,Ghana,QS,">30,000",Public,Comprehensive+
+801-1000,University of Greenwich,United Kingdom,QS,"<30,000",Public,Comprehensive
+801-1000,University of Karachi,Pakistan,QS,"<30,000",Public,Comprehensive
+801-1000,The University of Lahore,Pakistan,QS,"<30,000",Private,Focused
+801-1000,University of Maribor,Slovenia,QS,"<30,000",Public,Comprehensive+
+801-1000,University of Mississippi,United States,QS,"<30,000",Public,Comprehensive
+801-1000,University of Montana Missoula,United States,QS,"<12,000",Public,
+801-1000,University of Mumbai,India,QS,">30,000",Public,Comprehensive+
+801-1000,University of Nairobi,Kenya,QS,">30,000",Public,Comprehensive+
+801-1000,University of New England Australia,Australia,QS,"<30,000",Public,Comprehensive
+801-1000,Savitribai Phule Pune University,India,QS,"<12,000",Public,Comprehensive
+801-1000,University of San Diego,United States,QS,,,
+801-1000,University of San Francisco,United States,QS,"<12,000",Private,Comprehensive
+801-1000,University of Santo Tomas,Philippines,QS,">30,000",Private,Comprehensive+
+801-1000,University of the Pacific,United States,QS,"<12,000",Private,Comprehensive
+801-1000,University of the Sunshine Coast,Australia,QS,"<12,000",Public,Comprehensive
+801-1000,University of the Western Cape,South Africa,QS,"<30,000",Public,Comprehensive
+801-1000,University of Wroclaw,Poland,QS,,,
+801-1000,Universit? de Toulouse II-Le Mirail,France,QS,,Private,
+801-1000,Utah State University,United States,QS,"<30,000",Public,Comprehensive
+801-1000,Verona University,Italy,QS,"<30,000",Public,Comprehensive+
+801-1000,Voronezh State University,Russia,QS,,,
+801-1000,Vytautas Magnus University,Lithuania,QS,"<12,000",Public,Focused
+801-1000,Universitatea de Vest din Timisoara / West University of Timisoara,Romania,QS,,,
+801-1000,Wroclaw University of Technology,Poland,QS,"<30,000",Public,Focused
